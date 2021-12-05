@@ -1,2 +1,9 @@
 # spotify_analysis
-Data gatheration, Descriptive analysis, building different recommender systems for myself, Experimenting on how to embed Genre Info
+
+In this project, I use Spotify's API to do some analysis. My work is listed below:
+
+1. Data gatheration
+2. Descriptive analysis and visualization
+3. Building and comparing different song recommender systems
+4. Experimenting on how to embed Genre Info
+
