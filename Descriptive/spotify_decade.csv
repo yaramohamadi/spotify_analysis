@@ -1,0 +1,801 @@
+artist,name,username,explicit,duration,popularity,danceability,loudness,tempo,acousticness,energy,valence,liveness,speechiness,genres,date
+Bill Haley & His Comets,(We're Gonna) Rock Around The Clock,,False,129893,64,0.811,-6.317,90.686,0.205,0.859,0.784,0.0761,0.168,"['adult standards', 'brill building pop', 'rock-and-roll', 'rockabilly']",1955-12-19
+Jackie Wilson,Reet Petite,,False,169240,60,0.664,-6.526,84.345,0.447,0.66,0.873,0.298,0.13,"['adult standards', 'brill building pop', 'chicago soul', 'classic soul', 'funk']",1958
+Jackie Wilson,Lonely Teardrops,,False,166213,51,0.524,-8.894,137.133,0.406,0.478,0.843,0.74,0.118,"['adult standards', 'brill building pop', 'chicago soul', 'classic soul', 'funk']",1959
+Jackie Wilson,I Get The Sweetest Feeling,,False,178373,59,0.684,-9.234,123.532,0.778,0.482,0.749,0.148,0.0371,"['adult standards', 'brill building pop', 'chicago soul', 'classic soul', 'funk']",1968
+Jackie Wilson,I Get The Sweetest Feeling,,False,178373,59,0.684,-9.234,123.532,0.778,0.482,0.749,0.148,0.0371,"['adult standards', 'brill building pop', 'chicago soul', 'classic soul', 'funk']",1968
+Cliff Richard,Living Doll - 2003 Remaster,,False,156786,46,0.572,-7.782,62.658,0.527,0.463,0.764,0.0958,0.0517,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'europop']",2017-11-10
+Cliff Richard,We Don't Talk Anymore - 2001 Remaster,,False,257160,59,0.746,-7.853,111.569,0.0014,0.703,0.733,0.066,0.0291,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'europop']",1979
+Various Artists,All I Have to Do Is Dream,,False,141240,0,0.542,-14.011,103.709,0.783,0.347,0.596,0.144,0.0268,[],2011-12-05
+Various Artists,Baby (You've Got What It Takes),,False,164400,0,0.69,-9.92,132.892,0.851,0.508,0.818,0.496,0.0469,[],2011-01-01
+Various Artists,Something's Got A Hold On Me - Single Version,,False,166466,0,0.474,-5.913,150.122,0.675,0.566,0.592,0.548,0.113,[],2011-01-01
+Various Artists,Something's Got A Hold On Me - Single Version,,False,166466,0,0.474,-5.913,150.122,0.675,0.566,0.592,0.548,0.113,[],2011-01-01
+Various Artists,Blue Skies,,False,226213,0,0.464,-5.115,158.894,0.892,0.391,0.649,0.0521,0.0483,[],2011-01-01
+Various Artists,Born Too Late,,False,136826,0,0.501,-9.62,85.322,0.672,0.311,0.818,0.174,0.0251,[],2008-01-01
+Various Artists,Broken Hearted Melody,,False,143266,0,0.448,-11.304,132.443,0.744,0.5,0.768,0.191,0.0356,[],2008-01-01
+Various Artists,It's All In The Game,,False,158053,0,0.546,-16.085,70.564,0.845,0.167,0.628,0.127,0.0308,[],2008-01-01
+Various Artists,Chantilly Lace - Single Version,,False,143040,0,0.45,-9.455,171.421,0.83,0.668,0.829,0.0857,0.0968,[],2007-01-01
+Various Artists,I Left My Heart In San Francisco,,False,169746,0,0.235,-12.106,169.738,0.949,0.244,0.149,0.134,0.0312,[],2007-12-10
+Various Artists,Runaway - Rerecorded,,False,147080,63,0.712,-6.826,143.563,0.0893,0.819,0.739,0.11,0.094,[],2009-09-30
+Various Artists,Runaway - Rerecorded,,False,147080,63,0.712,-6.826,143.563,0.0893,0.819,0.739,0.11,0.094,[],2009-09-30
+Various Artists,It's My Party,,False,134453,0,0.797,-8.966,133.704,0.581,0.542,0.963,0.126,0.045,[],2003-01-01
+Various Artists,It's My Party,,False,134453,0,0.797,-8.966,133.704,0.581,0.542,0.963,0.126,0.045,[],2003-01-01
+Various Artists,Sweet Soul Music,,False,141066,45,0.59,-9.669,80.201,0.104,0.659,0.965,0.356,0.0697,[],2017-08-10
+Various Artists,Sweet Soul Music,,False,141066,45,0.59,-9.669,80.201,0.104,0.659,0.965,0.356,0.0697,[],2017-08-10
+Various Artists,Raindrops Keep Fallin' on My Head,,False,173026,26,0.739,-8.696,110.846,0.481,0.406,0.755,0.0709,0.0349,[],2013-01-28
+Various Artists,Raindrops Keep Fallin' on My Head,,False,173026,26,0.739,-8.696,110.846,0.481,0.406,0.755,0.0709,0.0349,[],2013-01-28
+Various Artists,You're The One That I Want - From “Grease”,,False,169840,76,0.758,-11.403,106.945,0.281,0.612,0.822,0.0954,0.0598,[],1978-04-04
+Various Artists,Summer Nights - From “Grease”,,False,216906,70,0.747,-9.415,124.336,0.62,0.663,0.606,0.0861,0.0545,[],1978-04-04
+Various Artists,I Can Dream About You,,False,247800,55,0.747,-12.165,112.987,0.1,0.533,0.875,0.0344,0.0554,[],1984-01-01
+Various Artists,You'll Be In My Heart,,False,258399,65,0.568,-6.523,96.699,0.0572,0.748,0.615,0.0932,0.0298,[],1999-01-01
+Various Artists,L'Amour Toujours,,False,238759,69,0.617,-7.932,139.066,0.0328,0.728,0.808,0.36,0.0292,[],2011-01-14
+Various Artists,Toxic,,False,198800,60,0.774,-3.914,143.04,0.0249,0.838,0.924,0.242,0.114,[],2018-03-02
+Various Artists,TiK ToK,,False,199733,63,0.745,-6.781,120.046,0.0608,0.667,0.633,0.283,0.121,[],2014-08-29
+Various Artists,Maria Maria (feat. The Product G&B) - Radio Edit,,False,237920,52,0.755,-5.042,97.923,0.0532,0.744,0.819,0.0263,0.0996,[],2014-08-29
+Fats Domino,I'm Walkin',,False,135093,47,0.729,-13.056,109.005,0.678,0.555,0.979,0.155,0.0483,"['adult standards', 'brill building pop', 'louisiana blues', 'lounge', 'new orleans blues']",1962-01-01
+Fats Domino,Blueberry Hill,,False,147880,61,0.489,-9.702,133.341,0.74,0.499,0.829,0.156,0.0271,"['adult standards', 'brill building pop', 'louisiana blues', 'lounge', 'new orleans blues']",1959-01-01
+Fats Domino,Ain't That A Shame,,False,152200,59,0.486,-8.57,122.894,0.767,0.501,0.942,0.0679,0.0326,"['adult standards', 'brill building pop', 'louisiana blues', 'lounge', 'new orleans blues']",1959-01-01
+Fats Domino,Jambalaya (On The Bayou),,False,144066,0,0.605,-8.672,75.322,0.819,0.845,0.965,0.253,0.0596,"['adult standards', 'brill building pop', 'louisiana blues', 'lounge', 'new orleans blues']",1988-03-03
+Sarah Vaughan,Black Coffee,,False,200440,57,0.38,-11.977,94.23,0.973,0.155,0.127,0.0977,0.0311,"['adult standards', 'bebop', 'cool jazz', 'jazz', 'lounge']",1955-04-12
+Sam Cooke,You Send Me,,False,163560,0,0.538,-13.817,96.951,0.945,0.226,0.553,0.125,0.0288,"['adult standards', 'brill building pop', 'classic soul', 'rock-and-roll', 'soul']",1993
+Sam Cooke,(What A) Wonderful World,,False,125440,72,0.691,-10.23,128.518,0.627,0.507,0.885,0.457,0.0343,"['adult standards', 'brill building pop', 'classic soul', 'rock-and-roll', 'soul']",2000-09-26
+Sam Cooke,(What A) Wonderful World,,False,125440,72,0.691,-10.23,128.518,0.627,0.507,0.885,0.457,0.0343,"['adult standards', 'brill building pop', 'classic soul', 'rock-and-roll', 'soul']",2000-09-26
+Ricky Nelson,Poor Little Fool - Remastered,,False,153933,55,0.474,-11.528,154.596,0.648,0.338,0.81,0.13,0.0299,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge']",1958-07-01
+Ricky Nelson,Travelin' Man - Remastered,,False,143200,57,0.723,-10.536,123.217,0.667,0.44,0.843,0.128,0.0319,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge']",1961-01-01
+Ricky Nelson,"Hello Mary Lou, Goodbye Heart - Remastered",,False,138546,58,0.602,-9.756,98.995,0.502,0.633,0.931,0.0614,0.0314,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge']",1961-01-01
+Ricky Nelson,Travelin' Man - Remastered,,False,143200,57,0.723,-10.536,123.217,0.667,0.44,0.843,0.128,0.0319,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge']",1961-01-01
+Ricky Nelson,"Hello Mary Lou, Goodbye Heart - Remastered",,False,138546,58,0.602,-9.756,98.995,0.502,0.633,0.931,0.0614,0.0314,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge']",1961-01-01
+The Platters,The Great Pretender,,False,157360,64,0.425,-9.427,115.71,0.943,0.401,0.531,0.072,0.0315,"['adult standards', 'brill building pop', 'doo-wop', 'lounge', 'rock-and-roll']",1986-01-01
+The Platters,My Prayer,,False,167800,54,0.359,-8.393,109.249,0.812,0.272,0.254,0.095,0.0294,"['adult standards', 'brill building pop', 'doo-wop', 'lounge', 'rock-and-roll']",1956-09-10
+The Platters,Smoke Gets In Your Eyes,,False,160933,64,0.203,-11.155,171.222,0.92,0.295,0.285,0.173,0.0323,"['adult standards', 'brill building pop', 'doo-wop', 'lounge', 'rock-and-roll']",1959-01-01
+Eddie Cochran,C’Mon Everybody,,False,118226,59,0.627,-9.657,175.33,0.121,0.7,0.856,0.188,0.0522,"['adult standards', 'brill building pop', 'rock-and-roll', 'rockabilly']",1960-05-01
+Nat King Cole,Unforgettable,,False,191973,68,0.349,-13.507,136.094,0.92,0.182,0.178,0.143,0.031,['adult standards'],1954-01-01
+The Crickets,Not Fade Away,,False,142773,50,0.799,-13.142,95.966,0.835,0.475,0.92,0.275,0.0413,"['adult standards', 'brill building pop', 'doo-wop', 'rock-and-roll', 'rockabilly']",1957-01-01
+Johnny Mathis,"It's Not for Me to Say - From the MGM Film ""Lizzie""",,False,183226,49,0.328,-12.843,80.584,0.94,0.218,0.446,0.1,0.0383,"['adult standards', 'brill building pop', 'easy listening', 'mellow gold', 'vocal jazz']",1956
+Johnny Mathis,Chances Are - Single Version,,False,181400,49,0.31,-12.2,77.512,0.897,0.254,0.296,0.107,0.0343,"['adult standards', 'brill building pop', 'easy listening', 'mellow gold', 'vocal jazz']",1956
+Johnny Mathis,Misty,,False,216573,58,0.216,-13.561,82.098,0.876,0.267,0.218,0.109,0.0351,"['adult standards', 'brill building pop', 'easy listening', 'mellow gold', 'vocal jazz']",1959-08-10
+The Everly Brothers,Wake up Little Susie,,False,123520,62,0.709,-9.382,93.723,0.318,0.62,0.936,0.0426,0.034,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'mellow gold']",1964-08-01
+The Everly Brothers,Bye Bye Love,,False,144300,0,0.558,-8.358,169.259,0.684,0.556,0.905,0.0869,0.0564,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'mellow gold']",2010-10-04
+The Everly Brothers,Crying in the Rain,,False,120306,57,0.61,-9.381,97.166,0.622,0.378,0.48,0.144,0.0279,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'mellow gold']",1962-06-01
+The Everly Brothers,Crying in the Rain,,False,120306,57,0.61,-9.381,97.166,0.622,0.378,0.48,0.144,0.0279,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'mellow gold']",1962-06-01
+Lloyd Price,Personality,,False,157733,53,0.591,-8.936,128.909,0.744,0.454,0.865,0.0989,0.0322,"['adult standards', 'brill building pop', 'doo-wop', 'louisiana blues', 'memphis blues']",1994-01-01
+Lloyd Price,I'm Gonna Get Married,,False,143000,45,0.569,-9.369,119.518,0.765,0.514,0.63,0.131,0.0334,"['adult standards', 'brill building pop', 'doo-wop', 'louisiana blues', 'memphis blues']",1994-01-01
+Neil Sedaka,Calendar Girl,,False,159693,53,0.703,-7.727,122.719,0.397,0.649,0.862,0.209,0.0312,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge']",1959-06-12
+Neil Sedaka,Breaking Up Is Hard to Do,,False,136266,61,0.742,-7.648,116.53,0.788,0.674,0.964,0.0698,0.0354,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge']",2003-03-29
+Neil Sedaka,Breaking Up Is Hard to Do,,False,136266,61,0.742,-7.648,116.53,0.788,0.674,0.964,0.0698,0.0354,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge']",2003-03-29
+Neil Sedaka,"Happy Birthday, Sweet Sixteen",,False,157026,48,0.498,-4.882,79.648,0.607,0.796,0.906,0.3,0.0453,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge']",1960-12-30
+Neil Sedaka,Breaking Up Is Hard to Do,,False,139200,62,0.743,-5.466,116.112,0.699,0.799,0.965,0.0635,0.0375,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge']",1960-12-30
+Neil Sedaka,"Happy Birthday, Sweet Sixteen",,False,157026,48,0.498,-4.882,79.648,0.607,0.796,0.906,0.3,0.0453,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge']",1960-12-30
+Neil Sedaka,Breaking Up Is Hard to Do,,False,139200,62,0.743,-5.466,116.112,0.699,0.799,0.965,0.0635,0.0375,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk rock', 'lounge']",1960-12-30
+Bobby Darin,Splish Splash,,False,131719,60,0.645,-1.526,147.768,0.385,0.943,0.965,0.37,0.0393,"['adult standards', 'big band', 'brill building pop', 'easy listening', 'lounge']",1958
+Bobby Darin,Beyond the Sea,,False,172480,70,0.521,-7.456,136.483,0.723,0.516,0.569,0.257,0.0369,"['adult standards', 'big band', 'brill building pop', 'easy listening', 'lounge']",1959
+Bobby Darin,Dream Lover,,False,150706,61,0.526,-1.692,131.715,0.715,0.774,0.715,0.437,0.0459,"['adult standards', 'big band', 'brill building pop', 'easy listening', 'lounge']",2004-11-23
+Buddy Holly,Oh Boy! - Overdubbed Version,,False,127680,49,0.543,-7.518,96.842,0.777,0.619,0.846,0.109,0.0377,"['adult standards', 'brill building pop', 'folk rock', 'lounge', 'rock-and-roll']",2008-01-14
+Buddy Holly,True Love Ways,,False,168706,56,0.221,-19.545,82.727,0.8,0.124,0.276,0.316,0.0346,"['adult standards', 'brill building pop', 'folk rock', 'lounge', 'rock-and-roll']",2005-10-11
+Buddy Holly,Peggy Sue,,False,150960,62,0.676,-8.132,148.373,0.947,0.424,0.493,0.119,0.0329,"['adult standards', 'brill building pop', 'folk rock', 'lounge', 'rock-and-roll']",1958
+Buddy Holly,Everyday,,False,129120,64,0.747,-12.562,135.562,0.584,0.219,0.498,0.107,0.0371,"['adult standards', 'brill building pop', 'folk rock', 'lounge', 'rock-and-roll']",1958
+Buddy Holly,That'll Be The Day,,False,150133,63,0.536,-7.774,115.24,0.467,0.637,0.798,0.0838,0.0343,"['adult standards', 'brill building pop', 'folk rock', 'lounge', 'rock-and-roll']",1958-06-01
+Buddy Holly,"(Ummmm, Oh Yeah) Dearest",,False,113066,54,0.548,-11.052,115.24,0.577,0.493,0.568,0.13,0.0282,"['adult standards', 'brill building pop', 'folk rock', 'lounge', 'rock-and-roll']",1969-01-01
+Buddy Holly,"(Ummmm, Oh Yeah) Dearest",,False,113066,54,0.548,-11.052,115.24,0.577,0.493,0.568,0.13,0.0282,"['adult standards', 'brill building pop', 'folk rock', 'lounge', 'rock-and-roll']",1969-01-01
+Dion & The Belmonts,I Wonder Why,,False,141386,54,0.506,-3.834,103.463,0.569,0.699,0.901,0.158,0.0348,"['adult standards', 'brill building pop', 'doo-wop', 'rhythm and blues', 'rock-and-roll']",1959-01-01
+Dion & The Belmonts,A Teenager In Love,,False,158253,63,0.555,-9.123,78.986,0.671,0.377,0.619,0.128,0.0295,"['adult standards', 'brill building pop', 'doo-wop', 'rhythm and blues', 'rock-and-roll']",1959-01-01
+The Fleetwoods,Mr. Blue,,False,145133,59,0.374,-17.475,96.677,0.931,0.0889,0.211,0.111,0.0356,"['adult standards', 'brill building pop', 'doo-wop', 'rhythm and blues', 'rock-and-roll']",1993-01-01
+The Fleetwoods,Come Softly To Me,,False,144933,56,0.601,-18.478,122.975,0.93,0.095,0.672,0.116,0.0374,"['adult standards', 'brill building pop', 'doo-wop', 'rhythm and blues', 'rock-and-roll']",1993-01-01
+Ritchie Valens,Donna - Single Version,,False,150973,56,0.472,-12.581,100.299,0.864,0.225,0.29,0.111,0.0263,"['adult standards', 'brill building pop', 'rock-and-roll', 'rockabilly']",1959
+Ritchie Valens,"Come On, Let's Go",,False,124586,57,0.616,-8.101,81.402,0.788,0.724,0.809,0.128,0.042,"['adult standards', 'brill building pop', 'rock-and-roll', 'rockabilly']",1959
+Ritchie Valens,La Bamba - Single Version,,False,126960,65,0.516,-6.419,75.099,0.787,0.809,0.939,0.303,0.0545,"['adult standards', 'brill building pop', 'rock-and-roll', 'rockabilly']",1959
+Buddy Knox,Party Doll,,False,135173,46,0.664,-7.84,90.054,0.718,0.731,0.661,0.216,0.0779,"['doo-wop', 'rhythm and blues', 'rock-and-roll', 'rockabilly']",2005-05-17
+Elvis Presley,"Love Me Tender - From the 20th Century-Fox CinemaScope Production, ""Love Me Tender""",,False,161360,57,0.396,-18.642,103.051,0.907,0.0373,0.302,0.111,0.0416,"['adult standards', 'rock-and-roll', 'rockabilly']",1958-03-21
+Elvis Presley,Don't Be Cruel,,False,122893,60,0.697,-11.496,84.802,0.856,0.55,0.844,0.0907,0.18,"['adult standards', 'rock-and-roll', 'rockabilly']",1958-03-21
+Elvis Presley,All Shook Up,,False,117080,60,0.624,-12.162,74.139,0.881,0.468,0.952,0.144,0.132,"['adult standards', 'rock-and-roll', 'rockabilly']",1958-03-21
+Elvis Presley,Hound Dog,,False,136026,69,0.357,-8.492,174.797,0.733,0.756,0.95,0.76,0.0621,"['adult standards', 'rock-and-roll', 'rockabilly']",1958-03-21
+Elvis Presley,Blue Suede Shoes,,False,119200,62,0.557,-7.706,95.252,0.654,0.66,0.962,0.138,0.056,"['adult standards', 'rock-and-roll', 'rockabilly']",1956-03-23
+Elvis Presley,Viva Las Vegas,,False,140866,0,0.577,-12.181,145.029,0.757,0.612,0.761,0.283,0.0438,"['adult standards', 'rock-and-roll', 'rockabilly']",2001-07-09
+Elvis Presley,Viva Las Vegas,,False,140866,0,0.577,-12.181,145.029,0.757,0.612,0.761,0.283,0.0438,"['adult standards', 'rock-and-roll', 'rockabilly']",2001-07-09
+Little Richard,Rip It Up,,False,141400,53,0.895,-6.043,95.922,0.672,0.636,0.967,0.0207,0.06,"['adult standards', 'brill building pop', 'rock-and-roll', 'rockabilly', 'soul']",1957-03
+Little Richard,Long Tall Sally (The Thing),,False,127426,63,0.474,-5.139,184.694,0.755,0.608,0.888,0.0928,0.0825,"['adult standards', 'brill building pop', 'rock-and-roll', 'rockabilly', 'soul']",1957-03
+Little Richard,Tutti Frutti,,False,144226,65,0.555,-3.866,184.835,0.793,0.658,0.937,0.118,0.0541,"['adult standards', 'brill building pop', 'rock-and-roll', 'rockabilly', 'soul']",1957-03
+Little Richard,Good Golly Miss Molly - Remastered,,False,128639,58,0.57,-10.82,163.837,0.581,0.863,0.909,0.313,0.0526,"['adult standards', 'brill building pop', 'rock-and-roll', 'rockabilly', 'soul']",2008-01-01
+Little Richard,Keep A Knockin,,False,137066,0,0.335,-8.763,170.467,0.0266,0.926,0.948,0.0696,0.0958,"['adult standards', 'brill building pop', 'rock-and-roll', 'rockabilly', 'soul']",1985-01-01
+"Clarence ""Frogman"" Henry",Ain't Got No Home - Remastered,,False,138453,39,0.45,-7.595,84.73,0.469,0.72,0.556,0.281,0.0687,"['doo-wop', 'louisiana blues', 'new orleans blues', 'rhythm and blues', 'rock-and-roll']",2020-05-08
+Harry Belafonte,Banana Boat (Day-O),,False,183133,64,0.797,-16.881,122.545,0.885,0.105,0.419,0.108,0.0969,"['adult standards', 'brill building pop', 'calypso', 'lounge']",1956
+Harry Belafonte,Jump in the Line,,False,221704,63,0.594,-7.775,116.187,0.768,0.889,0.8,0.124,0.246,"['adult standards', 'brill building pop', 'calypso', 'lounge']",1961-07-21
+Harry Belafonte,Jump in the Line,,False,221704,63,0.594,-7.775,116.187,0.768,0.889,0.8,0.124,0.246,"['adult standards', 'brill building pop', 'calypso', 'lounge']",1961-07-21
+The Isley Brothers,"Shout, Pts. 1 & 2",,False,268560,62,0.489,-7.433,138.63,0.753,0.866,0.416,0.876,0.0933,"['classic soul', 'disco', 'funk', 'motown', 'quiet storm']",1959-08-21
+Frank Sinatra,I've Got You Under My Skin - Remastered 1998,,False,223760,69,0.585,-12.612,127.15,0.452,0.247,0.591,0.107,0.04,"['adult standards', 'easy listening', 'lounge']",1956-03
+Frank Sinatra,Come Fly With Me - Remastered,,False,199093,70,0.574,-11.376,67.008,0.845,0.338,0.493,0.165,0.042,"['adult standards', 'easy listening', 'lounge']",1958
+Frank Sinatra,I've Got The World On A String,,False,129813,0,0.569,-7.022,123.411,0.809,0.372,0.5,0.3,0.0515,"['adult standards', 'easy listening', 'lounge']",2015-04-17
+Frank Sinatra,Somethin' Stupid,,False,162493,72,0.257,-12.902,207.356,0.736,0.338,0.544,0.252,0.0357,"['adult standards', 'easy listening', 'lounge']",1967-08
+Frank Sinatra,Somethin' Stupid,,False,162493,72,0.257,-12.902,207.356,0.736,0.338,0.544,0.252,0.0357,"['adult standards', 'easy listening', 'lounge']",1967-08
+Frank Sinatra,Strangers In The Night,,False,157866,70,0.259,-8.275,90.348,0.592,0.473,0.539,0.201,0.0295,"['adult standards', 'easy listening', 'lounge']",1966-05
+Frank Sinatra,Strangers In The Night,,False,157866,70,0.259,-8.275,90.348,0.592,0.473,0.539,0.201,0.0295,"['adult standards', 'easy listening', 'lounge']",1966-05
+The Diamonds,Little Darlin',,False,129333,55,0.631,-11.402,152.851,0.536,0.587,0.664,0.333,0.042,"['brill building pop', 'deep adult standards', 'doo-wop', 'rhythm and blues', 'rock-and-roll']",1996-08-20
+Connie Francis,Stupid Cupid,,False,134560,59,0.606,-7.019,136.815,0.831,0.725,0.963,0.0407,0.0352,"['adult standards', 'brill building pop', 'easy listening', 'lounge', 'rock-and-roll']",1996-01-01
+The Coasters,Down in Mexico,,False,196466,58,0.614,-8.667,111.879,0.7,0.589,0.894,0.069,0.0573,"['brill building pop', 'doo-wop', 'motown', 'rhythm and blues', 'rock-and-roll']",2005-02-08
+The Coasters,Yakety Yak,,False,113040,59,0.715,-9.491,120.789,0.705,0.669,0.976,0.044,0.128,"['brill building pop', 'doo-wop', 'motown', 'rhythm and blues', 'rock-and-roll']",2005-12-20
+The Coasters,Charlie Brown,,False,141666,51,0.646,-8.794,125.705,0.404,0.628,0.881,0.00967,0.243,"['brill building pop', 'doo-wop', 'motown', 'rhythm and blues', 'rock-and-roll']",2005-12-20
+The Del-Vikings,Come Go With Me,,False,162293,59,0.566,-9.416,129.69,0.713,0.534,0.582,0.0883,0.0409,"['brill building pop', 'doo-wop', 'rhythm and blues', 'rock-and-roll']",1997-01-01
+The Flamingos,I Only Have Eyes for You,,False,202773,62,0.552,-12.41,88.554,0.916,0.313,0.303,0.12,0.0296,"['brill building pop', 'doo-wop', 'rhythm and blues']",1959-08-11
+The Five Satins,In The Still of the Night,,False,187666,59,0.43,-10.621,108.824,0.876,0.33,0.316,0.105,0.0353,"['brill building pop', 'doo-wop', 'rhythm and blues', 'rock-and-roll']",1993
+Ray Charles,I've Got a Woman,,False,171466,68,0.556,-4.729,199.373,0.833,0.61,0.665,0.258,0.213,"['adult standards', 'classic soul', 'jazz blues', 'piano blues', 'soul']",1957-01-01
+Ray Charles,"Hallelujah, I Love Her So",,False,155506,64,0.696,-5.954,73.203,0.792,0.547,0.623,0.155,0.169,"['adult standards', 'classic soul', 'jazz blues', 'piano blues', 'soul']",1957-01-01
+Ray Charles,Georgia on My Mind - Original Master Recording,,False,217414,29,0.138,-8.756,179.93,0.782,0.399,0.296,0.188,0.0311,"['adult standards', 'classic soul', 'jazz blues', 'piano blues', 'soul']",1960-09-01
+Ray Charles,Georgia on My Mind - Original Master Recording,,False,217414,29,0.138,-8.756,179.93,0.782,0.399,0.296,0.188,0.0311,"['adult standards', 'classic soul', 'jazz blues', 'piano blues', 'soul']",1960-09-01
+Johnny Maestro,16 Candles,,False,174640,54,0.604,-10.832,114.009,0.727,0.307,0.604,0.0932,0.0275,"['brill building pop', 'doo-wop', 'rhythm and blues', 'rock-and-roll']",1993
+Danny & The Juniors,At The Hop,,False,149973,0,0.405,-7.642,194.875,0.662,0.864,0.888,0.18,0.0486,"['brill building pop', 'doo-wop', 'rhythm and blues', 'rock-and-roll', 'rockabilly']",2008-10-21
+Gene Vincent,Be-Bop-A-Lula,,False,157206,47,0.607,-10.099,127.638,0.421,0.561,0.841,0.298,0.0425,"['rock-and-roll', 'rockabilly']",1996-01-01
+Carl Perkins,Blue Suede Shoes,,False,138400,0,0.633,-11.225,84.491,0.352,0.568,0.969,0.154,0.0323,"['rock-and-roll', 'rockabilly']",2012-09-10
+The Monotones,The Book of Love,,False,138440,53,0.428,-12.716,198.67,0.734,0.594,0.556,0.567,0.379,"['doo-wop', 'rhythm and blues']",2006-01-24
+Sam Butera & The Witnesses,Buona Sera - Remastered,,False,187200,56,0.547,-13.973,97.793,0.777,0.3,0.811,0.0653,0.107,['lounge'],1991-01-01
+Sam Butera & The Witnesses,Just A Gigolo - Remastered,,False,283200,57,0.525,-11.987,125.187,0.597,0.403,0.718,0.0565,0.0945,['lounge'],1991-01-01
+Ella Fitzgerald,Cheek To Cheek,,False,351893,0,0.648,-13.395,122.027,0.588,0.306,0.661,0.252,0.0883,"['adult standards', 'jazz blues', 'swing', 'vocal jazz']",1956
+Ella Fitzgerald,Dream A Little Dream Of Me,,False,184552,0,0.455,-13.613,76.118,0.918,0.167,0.404,0.173,0.0739,"['adult standards', 'jazz blues', 'swing', 'vocal jazz']",1996-06-04
+Paul Anka,Diana,,False,138360,54,0.57,-9.932,143.249,0.341,0.408,0.96,0.549,0.0295,"['adult standards', 'brill building pop', 'canadian pop', 'easy listening', 'lounge']",2000-10-03
+Paul Anka,Puppy Love - Remix,,False,164000,58,0.29,-9.607,102.229,0.662,0.408,0.542,0.272,0.0318,"['adult standards', 'brill building pop', 'canadian pop', 'easy listening', 'lounge']",2000-10-03
+Paul Anka,Puppy Love - Remix,,False,164000,58,0.29,-9.607,102.229,0.662,0.408,0.542,0.272,0.0318,"['adult standards', 'brill building pop', 'canadian pop', 'easy listening', 'lounge']",2000-10-03
+The Penguins,Earth Angel,,False,178026,49,0.505,-12.267,72.554,0.919,0.192,0.485,0.106,0.0283,"['doo-wop', 'rhythm and blues']",2011-10-14
+Peggy Lee,Fever,,False,201333,65,0.742,-19.187,137.473,0.0906,0.0899,0.351,0.113,0.158,"['adult standards', 'soul', 'swing', 'torch song', 'vocal jazz']",1988-01-01
+The Silhouettes,Get a Job,,False,169706,50,0.625,-9.962,80.024,0.652,0.425,0.829,0.124,0.0359,"['doo-wop', 'rhythm and blues']",1996
+The Spaniels,"Goodnite, It's Time to Go (Goodnight Sweetheart, Goodnight)",,False,160373,34,0.375,-9.923,76.638,0.655,0.318,0.358,0.422,0.0423,"['doo-wop', 'rhythm and blues']",2007-10-30
+Jerry Lee Lewis,Great Balls Of Fire,,False,116466,0,0.468,-13.897,159.501,0.554,0.527,0.855,0.061,0.0683,"['brill building pop', 'piano rock', 'rock-and-roll', 'rockabilly']",2013-07-11
+Jim Reeves,He'll Have to Go,,False,138640,57,0.554,-15.846,81.181,0.909,0.186,0.2,0.11,0.0379,"['adult standards', 'nashville sound']",1997-02-14
+Chet Baker,I Fall In Love Too Easily - Vocal Version,,False,201440,67,0.532,-19.136,128.607,0.94,0.0657,0.292,0.0946,0.0406,"['adult standards', 'bebop', 'cool jazz', 'jazz', 'jazz trumpet']",1956
+Chet Baker,I Get Along Without You Very Well (Except Sometimes) - Vocal Version,,False,179640,62,0.442,-23.063,103.34,0.922,0.033,0.21,0.151,0.041,"['adult standards', 'bebop', 'cool jazz', 'jazz', 'jazz trumpet']",1956
+Billie Holiday,I'm a Fool to Want You,,False,203266,54,0.244,-16.583,78.088,0.695,0.233,0.262,0.282,0.0413,"['adult standards', 'harlem renaissance', 'jazz blues', 'lounge', 'soul']",1958-06
+Bo Diddley,I'm A Man,,False,164546,0,0.514,-15.628,85.368,0.296,0.539,0.853,0.184,0.0402,"['blues', 'blues rock', 'chicago blues', 'electric blues', 'funk']",1962-01-01
+John Coltrane,I'm Old Fashioned - Remaster/1997,,False,476752,37,0.494,-14.475,79.105,0.961,0.131,0.355,0.0749,0.0347,"['bebop', 'contemporary post-bop', 'cool jazz', 'free jazz', 'hard bop']",2009-01-01
+Conway Twitty,It's Only Make Believe - Single Version,,False,132106,0,0.542,-6.698,126.018,0.887,0.531,0.344,0.127,0.0384,"['arkansas country', 'country', 'country rock']",2008-01-01
+Chuck Berry,Johnny B. Goode,,False,161560,0,0.516,-9.049,168.195,0.738,0.798,0.969,0.305,0.083,"['adult standards', 'blues rock', 'classic rock', 'rock', 'rock-and-roll']",1959-01-01
+Chuck Berry,No Particular Place To Go - Stereo Remix,,False,164400,45,0.574,-11.578,129.646,0.212,0.542,0.977,0.0645,0.0657,"['adult standards', 'blues rock', 'classic rock', 'rock', 'rock-and-roll']",1986-01-01
+Chuck Berry,No Particular Place To Go - Stereo Remix,,False,164400,45,0.574,-11.578,129.646,0.212,0.542,0.977,0.0645,0.0657,"['adult standards', 'blues rock', 'classic rock', 'rock', 'rock-and-roll']",1986-01-01
+Dean Martin,Just In Time - Remastered/1998,,False,134640,41,0.509,-11.918,126.88,0.652,0.265,0.587,0.125,0.0438,"['adult standards', 'easy listening', 'lounge']",2009-01-01
+Dean Martin,You're Nobody 'Til Somebody Loves You - Remastered/1997,,False,133933,63,0.503,-16.651,63.684,0.776,0.182,0.652,0.178,0.0323,"['adult standards', 'easy listening', 'lounge']",1960
+Dean Martin,You're Nobody 'Til Somebody Loves You - Remastered/1997,,False,133933,63,0.503,-16.651,63.684,0.776,0.182,0.652,0.178,0.0323,"['adult standards', 'easy listening', 'lounge']",1960
+Dean Martin,Sway (Quien Sera),,False,162960,61,0.601,-12.175,120.036,0.727,0.239,0.569,0.0748,0.0384,"['adult standards', 'easy listening', 'lounge']",1964
+Dean Martin,Sway (Quien Sera),,False,162960,61,0.601,-12.175,120.036,0.727,0.239,0.569,0.0748,0.0384,"['adult standards', 'easy listening', 'lounge']",1964
+Dean Martin,Ain't That A Kick In The Head,,False,145800,59,0.661,-9.549,132.008,0.458,0.311,0.702,0.233,0.0701,"['adult standards', 'easy listening', 'lounge']",1996-05-30
+Dean Martin,Ain't That A Kick In The Head,,False,145800,59,0.661,-9.549,132.008,0.458,0.311,0.702,0.233,0.0701,"['adult standards', 'easy listening', 'lounge']",1996-05-30
+Shirley & Lee,Let The Good Times Roll,,False,145653,47,0.502,-9.562,140.988,0.481,0.445,0.939,0.0823,0.0688,"['doo-wop', 'rhythm and blues']",2005-11-08
+Aretha Franklin,I Say a Little Prayer,,False,216773,64,0.59,-14.051,133.03,0.48,0.355,0.499,0.0585,0.0352,"['classic soul', 'jazz blues', 'memphis soul', 'soul', 'southern soul']",2017-03-25
+Aretha Franklin,I Say a Little Prayer,,False,216773,64,0.59,-14.051,133.03,0.48,0.355,0.499,0.0585,0.0352,"['classic soul', 'jazz blues', 'memphis soul', 'soul', 'southern soul']",2017-03-25
+Aretha Franklin,Respect,,False,147600,73,0.805,-5.226,114.95,0.164,0.558,0.965,0.0546,0.041,"['classic soul', 'jazz blues', 'memphis soul', 'soul', 'southern soul']",1967-03-10
+Aretha Franklin,Respect,,False,147600,73,0.805,-5.226,114.95,0.164,0.558,0.965,0.0546,0.041,"['classic soul', 'jazz blues', 'memphis soul', 'soul', 'southern soul']",1967-03-10
+"Bobby ""Boris"" Pickett & The Crypt-Kickers",Monster Mash,,False,192458,26,0.622,-8.138,69.55,0.39,0.701,0.686,0.406,0.349,['halloween'],2012-12-14
+"Bobby ""Boris"" Pickett & The Crypt-Kickers",Monster Mash,,False,192458,26,0.622,-8.138,69.55,0.39,0.701,0.686,0.406,0.349,['halloween'],2012-12-14
+Marvin Gaye,I Heard It Through The Grapevine,,False,194293,73,0.711,-10.851,117.287,0.272,0.362,0.616,0.127,0.0381,"['classic soul', 'funk', 'motown', 'northern soul', 'quiet storm']",1968-08-26
+Marvin Gaye,I Heard It Through The Grapevine,,False,194293,73,0.711,-10.851,117.287,0.272,0.362,0.616,0.127,0.0381,"['classic soul', 'funk', 'motown', 'northern soul', 'quiet storm']",1968-08-26
+Procol Harum,A Whiter Shade Of Pale,,False,248946,0,0.249,-6.905,149.813,0.504,0.66,0.435,0.0891,0.0342,"['album rock', 'art rock', 'blues rock', 'british invasion', 'classic rock']",1967-05-12
+Procol Harum,A Whiter Shade Of Pale,,False,248946,0,0.249,-6.905,149.813,0.504,0.66,0.435,0.0891,0.0342,"['album rock', 'art rock', 'blues rock', 'british invasion', 'classic rock']",1967-05-12
+The Shadows,Apache,,False,174186,59,0.595,-12.987,133.673,0.0106,0.451,0.779,0.0962,0.0288,"['adult standards', 'brill building pop', 'british invasion', 'classic uk pop', 'merseybeat']",1987-10-05
+The Shadows,Apache,,False,174186,59,0.595,-12.987,133.673,0.0106,0.451,0.779,0.0962,0.0288,"['adult standards', 'brill building pop', 'british invasion', 'classic uk pop', 'merseybeat']",1987-10-05
+The Mamas & The Papas,California Dreamin' - Single Version,,False,158720,0,0.557,-7.471,112.479,0.472,0.698,0.677,0.057,0.039,"['brill building pop', 'bubblegum pop', 'classic rock', 'folk', 'folk rock']",2005
+The Mamas & The Papas,California Dreamin' - Single Version,,False,158720,0,0.557,-7.471,112.479,0.472,0.698,0.677,0.057,0.039,"['brill building pop', 'bubblegum pop', 'classic rock', 'folk', 'folk rock']",2005
+The Marvelettes,Playboy,,False,164840,44,0.863,-5.611,123.757,0.371,0.691,0.916,0.0597,0.0535,"['brill building pop', 'classic girl group', 'classic soul', 'motown', 'rhythm and blues']",1962-01-01
+The Marvelettes,Playboy,,False,164840,44,0.863,-5.611,123.757,0.371,0.691,0.916,0.0597,0.0535,"['brill building pop', 'classic girl group', 'classic soul', 'motown', 'rhythm and blues']",1962-01-01
+Creedence Clearwater Revival,Bad Moon Rising,,False,141600,0,0.641,-5.916,89.787,0.0543,0.774,0.942,0.0473,0.0278,"['classic rock', 'country rock', 'rock', 'roots rock', 'southern rock']",1969-08-03
+Creedence Clearwater Revival,Bad Moon Rising,,False,141600,0,0.641,-5.916,89.787,0.0543,0.774,0.942,0.0473,0.0278,"['classic rock', 'country rock', 'rock', 'roots rock', 'southern rock']",1969-08-03
+Creedence Clearwater Revival,Bad Moon Rising,,False,141600,78,0.508,-5.973,178.946,0.0586,0.774,0.942,0.063,0.0321,"['classic rock', 'country rock', 'rock', 'roots rock', 'southern rock']",1969-08-03
+Creedence Clearwater Revival,Bad Moon Rising,,False,141600,78,0.508,-5.973,178.946,0.0586,0.774,0.942,0.063,0.0321,"['classic rock', 'country rock', 'rock', 'roots rock', 'southern rock']",1969-08-03
+Creedence Clearwater Revival,Down On The Corner,,False,166280,0,0.831,-9.288,108.177,0.594,0.544,0.856,0.0736,0.0837,"['classic rock', 'country rock', 'rock', 'roots rock', 'southern rock']",1969-11-02
+Creedence Clearwater Revival,Down On The Corner,,False,166280,0,0.831,-9.288,108.177,0.594,0.544,0.856,0.0736,0.0837,"['classic rock', 'country rock', 'rock', 'roots rock', 'southern rock']",1969-11-02
+Creedence Clearwater Revival,Have You Ever Seen The Rain,,False,160133,79,0.741,-7.028,116.109,0.0664,0.697,0.774,0.133,0.0277,"['classic rock', 'country rock', 'rock', 'roots rock', 'southern rock']",1970-12-07
+Johnny Cash,Ring of Fire,,False,155733,0,0.67,-9.28,104.357,0.73,0.519,0.76,0.379,0.0308,"['arkansas country', 'outlaw country']",1999-02-02
+Johnny Cash,Ring of Fire,,False,155733,0,0.67,-9.28,104.357,0.73,0.519,0.76,0.379,0.0308,"['arkansas country', 'outlaw country']",1999-02-02
+Johnny Cash,"Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",,False,162653,70,0.621,-15.269,110.586,0.0652,0.524,0.889,0.893,0.0803,"['arkansas country', 'outlaw country']",1968-05-01
+Johnny Cash,"Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",,False,162653,70,0.621,-15.269,110.586,0.0652,0.524,0.889,0.893,0.0803,"['arkansas country', 'outlaw country']",1968-05-01
+Johnny Cash,I Walk the Line - Stereo Version,,False,154173,65,0.596,-20.389,114.974,0.97,0.194,0.746,0.099,0.0347,"['arkansas country', 'outlaw country']",1964-06-13
+Johnny Cash,I Walk the Line - Stereo Version,,False,154173,65,0.596,-20.389,114.974,0.97,0.194,0.746,0.099,0.0347,"['arkansas country', 'outlaw country']",1964-06-13
+Ben E. King,Stand By Me,,False,174253,60,0.653,-6.955,119.46,0.411,0.334,0.665,0.123,0.0313,"['adult standards', 'brill building pop', 'motown', 'rock-and-roll', 'soul']",2016-11-25
+Ben E. King,Stand By Me,,False,174253,60,0.653,-6.955,119.46,0.411,0.334,0.665,0.123,0.0313,"['adult standards', 'brill building pop', 'motown', 'rock-and-roll', 'soul']",2016-11-25
+Brian Hyland,Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini (Bonus Track),,False,141892,0,0.814,-17.523,123.304,0.522,0.266,0.965,0.0243,0.192,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'doo-wop']",2012-01-31
+Brian Hyland,Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini (Bonus Track),,False,141892,0,0.814,-17.523,123.304,0.522,0.266,0.965,0.0243,0.192,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'doo-wop']",2012-01-31
+The Beatles,Here Comes The Sun - Remastered,,False,185733,1,0.557,-10.484,129.171,0.0339,0.54,0.394,0.179,0.0347,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock']",1969-09-26
+The Beatles,Here Comes The Sun - Remastered,,False,185733,1,0.557,-10.484,129.171,0.0339,0.54,0.394,0.179,0.0347,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock']",1969-09-26
+The Beatles,Let It Be - Remastered 2009,,False,243026,79,0.443,-8.339,143.462,0.631,0.403,0.41,0.111,0.0322,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock']",1970-05-08
+Jan & Dean,Surf City,,False,147266,52,0.534,-12.871,147.843,0.497,0.807,0.964,0.232,0.0349,"['brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock', 'merseybeat']",2010-01-01
+Jan & Dean,Surf City,,False,147266,52,0.534,-12.871,147.843,0.497,0.807,0.964,0.232,0.0349,"['brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock', 'merseybeat']",2010-01-01
+Bruce Channel,Hey Baby,,False,140573,40,0.655,-10.349,132.278,0.695,0.491,0.857,0.324,0.0349,['rock-and-roll'],2013-01-01
+Bruce Channel,Hey Baby,,False,140573,40,0.655,-10.349,132.278,0.695,0.491,0.857,0.324,0.0349,['rock-and-roll'],2013-01-01
+Frankie Valli & The Four Seasons,Big Girls Don't Cry,,False,148013,60,0.764,-5.023,130.276,0.393,0.84,0.843,0.0686,0.0672,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'lounge']",1962-10-01
+Frankie Valli & The Four Seasons,Big Girls Don't Cry,,False,148013,60,0.764,-5.023,130.276,0.393,0.84,0.843,0.0686,0.0672,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'lounge']",1962-10-01
+Pat Boone,Speedy Gonzales,,False,153093,53,0.589,-12.912,146.845,0.821,0.447,0.789,0.0999,0.0748,"['adult standards', 'brill building pop', 'easy listening', 'lounge', 'rock-and-roll']",1962-08-01
+Pat Boone,Speedy Gonzales,,False,153093,53,0.589,-12.912,146.845,0.821,0.447,0.789,0.0999,0.0748,"['adult standards', 'brill building pop', 'easy listening', 'lounge', 'rock-and-roll']",1962-08-01
+The Archies,Sugar Sugar,,False,167213,64,0.757,-7.259,122.439,0.399,0.727,0.966,0.108,0.0275,"['brill building pop', 'bubblegum pop', 'classic canadian rock', 'folk rock']",1969-11-14
+The Archies,Sugar Sugar,,False,167213,64,0.757,-7.259,122.439,0.399,0.727,0.966,0.108,0.0275,"['brill building pop', 'bubblegum pop', 'classic canadian rock', 'folk rock']",1969-11-14
+The Contours,Do You Love Me,,False,174400,52,0.615,-7.128,150.733,0.475,0.815,0.765,0.0964,0.0373,"['motown', 'northern soul']",2000-01-01
+The Contours,Do You Love Me,,False,174400,52,0.615,-7.128,150.733,0.475,0.815,0.765,0.0964,0.0373,"['motown', 'northern soul']",2000-01-01
+Brenda Lee,I'm Sorry,,False,161533,0,0.56,-11.872,102.064,0.862,0.244,0.312,0.129,0.0291,"['adult standards', 'brill building pop']",2011-04-10
+Brenda Lee,I'm Sorry,,False,161533,0,0.56,-11.872,102.064,0.862,0.244,0.312,0.129,0.0291,"['adult standards', 'brill building pop']",2011-04-10
+The Ronettes,Be My Baby,,False,160906,61,0.512,-7.006,129.639,0.168,0.771,0.803,0.0895,0.0402,"['adult standards', 'brill building pop', 'classic girl group', 'motown', 'soul']",1964-11-01
+The Ronettes,Be My Baby,,False,160906,61,0.512,-7.006,129.639,0.168,0.771,0.803,0.0895,0.0402,"['adult standards', 'brill building pop', 'classic girl group', 'motown', 'soul']",1964-11-01
+Bobby Vee,Rubber Ball,,False,136911,0,0.441,-11.043,142.963,0.627,0.413,0.755,0.133,0.0371,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock']",2013-07-04
+Bobby Vee,Rubber Ball,,False,136911,0,0.441,-11.043,142.963,0.627,0.413,0.755,0.133,0.0371,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock']",2013-07-04
+Bobby Vee,Take Good Care Of My Baby,,False,149800,56,0.487,-11.297,82.707,0.761,0.441,0.604,0.15,0.0722,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock']",1962-02-01
+Bobby Vee,Take Good Care Of My Baby,,False,149800,56,0.487,-11.297,82.707,0.761,0.441,0.604,0.15,0.0722,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock']",1962-02-01
+Dion,The Wanderer,,False,167160,60,0.623,-13.215,114.436,0.193,0.48,0.842,0.11,0.0392,"['adult standards', 'brill building pop', 'doo-wop', 'lounge', 'rock-and-roll']",2001-01-01
+Dion,The Wanderer,,False,167160,60,0.623,-13.215,114.436,0.193,0.48,0.842,0.11,0.0392,"['adult standards', 'brill building pop', 'doo-wop', 'lounge', 'rock-and-roll']",2001-01-01
+Dion,Runaround Sue,,False,171600,63,0.364,-9.791,79.987,0.451,0.607,0.598,0.251,0.125,"['adult standards', 'brill building pop', 'doo-wop', 'lounge', 'rock-and-roll']",1961
+Dion,Runaround Sue,,False,171600,63,0.364,-9.791,79.987,0.451,0.607,0.598,0.251,0.125,"['adult standards', 'brill building pop', 'doo-wop', 'lounge', 'rock-and-roll']",1961
+The Crystals,Da Doo Ron Ron (When He Walked Me Home),,False,140120,54,0.535,-7.533,148.835,0.48,0.797,0.613,0.141,0.0459,"['adult standards', 'brill building pop', 'classic girl group', 'motown', 'rock-and-roll']",2011-02-22
+The Crystals,Then He Kissed Me,,False,158853,59,0.431,-7.945,135.919,0.7,0.678,0.633,0.199,0.0365,"['adult standards', 'brill building pop', 'classic girl group', 'motown', 'rock-and-roll']",2011-02-22
+The Crystals,Da Doo Ron Ron (When He Walked Me Home),,False,140120,54,0.535,-7.533,148.835,0.48,0.797,0.613,0.141,0.0459,"['adult standards', 'brill building pop', 'classic girl group', 'motown', 'rock-and-roll']",2011-02-22
+The Crystals,Then He Kissed Me,,False,158853,59,0.431,-7.945,135.919,0.7,0.678,0.633,0.199,0.0365,"['adult standards', 'brill building pop', 'classic girl group', 'motown', 'rock-and-roll']",2011-02-22
+Bobby Vinton,Mr. Lonely,,False,160066,46,0.37,-14.335,84.392,0.804,0.185,0.31,0.288,0.028,"['adult standards', 'brill building pop', 'bubblegum pop', 'easy listening', 'lounge']",1991-09-03
+Bobby Vinton,Mr. Lonely,,False,160066,46,0.37,-14.335,84.392,0.804,0.185,0.31,0.288,0.028,"['adult standards', 'brill building pop', 'bubblegum pop', 'easy listening', 'lounge']",1991-09-03
+Johnny Tillotson,Poetry In Motion,,False,154466,42,0.488,-7.419,135.201,0.404,0.712,0.895,0.0989,0.0322,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'merseybeat']",2011-07-01
+Johnny Tillotson,Poetry In Motion,,False,154466,42,0.488,-7.419,135.201,0.404,0.712,0.895,0.0989,0.0322,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'merseybeat']",2011-07-01
+Del Shannon,Runaway,,False,136466,47,0.584,-6.826,78.674,0.137,0.563,0.667,0.174,0.0455,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock']",2009-01-01
+Del Shannon,Runaway,,False,136466,47,0.584,-6.826,78.674,0.137,0.563,0.667,0.174,0.0455,"['adult standards', 'brill building pop', 'bubblegum pop', 'doo-wop', 'folk rock']",2009-01-01
+The Drifters,Under the Boardwalk,,False,161960,68,0.747,-13.635,123.789,0.908,0.226,0.778,0.107,0.0415,"['adult standards', 'brill building pop', 'bubblegum pop', 'lounge', 'motown']",1964-06-01
+The Drifters,Under the Boardwalk,,False,161960,68,0.747,-13.635,123.789,0.908,0.226,0.778,0.107,0.0415,"['adult standards', 'brill building pop', 'bubblegum pop', 'lounge', 'motown']",1964-06-01
+The Drifters,Save the Last Dance for Me,,False,154960,61,0.54,-10.583,143.453,0.614,0.53,0.896,0.198,0.0361,"['adult standards', 'brill building pop', 'bubblegum pop', 'lounge', 'motown']",2005-02-08
+The Drifters,Save the Last Dance for Me,,False,154960,61,0.54,-10.583,143.453,0.614,0.53,0.896,0.198,0.0361,"['adult standards', 'brill building pop', 'bubblegum pop', 'lounge', 'motown']",2005-02-08
+Ray Peterson,Tell Laura I Love Her,,False,175360,46,0.483,-0.062,102.363,0.714,0.788,0.216,0.155,0.0386,"['adult standards', 'brill building pop', 'deep adult standards', 'merseybeat', 'rock-and-roll']",1960-04-14
+Ray Peterson,Tell Laura I Love Her,,False,175360,46,0.483,-0.062,102.363,0.714,0.788,0.216,0.155,0.0386,"['adult standards', 'brill building pop', 'deep adult standards', 'merseybeat', 'rock-and-roll']",1960-04-14
+Patsy Cline,Crazy - Single Version,,False,164573,67,0.471,-24.385,107.765,0.931,0.021,0.356,0.103,0.0366,"['adult standards', 'nashville sound']",1961-11-27
+Patsy Cline,Crazy - Single Version,,False,164573,67,0.471,-24.385,107.765,0.931,0.021,0.356,0.103,0.0366,"['adult standards', 'nashville sound']",1961-11-27
+Patsy Cline,She's Got You,,False,189866,0,0.565,-13.379,90.791,0.881,0.167,0.562,0.0884,0.0354,"['adult standards', 'nashville sound']",1998-03-01
+Patsy Cline,She's Got You,,False,189866,0,0.565,-13.379,90.791,0.881,0.167,0.562,0.0884,0.0354,"['adult standards', 'nashville sound']",1998-03-01
+The Chiffons,One Fine Day,,False,128199,60,0.251,-2.685,177.13,0.488,0.868,0.599,0.814,0.128,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic girl group', 'doo-wop']",2004-10-02
+The Chiffons,He's So Fine - Remastered 2000,,False,112520,52,0.558,-3.265,72.494,0.487,0.633,0.871,0.129,0.0329,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic girl group', 'doo-wop']",2004-10-02
+The Chiffons,One Fine Day,,False,128199,60,0.251,-2.685,177.13,0.488,0.868,0.599,0.814,0.128,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic girl group', 'doo-wop']",2004-10-02
+The Chiffons,He's So Fine - Remastered 2000,,False,112520,52,0.558,-3.265,72.494,0.487,0.633,0.871,0.129,0.0329,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic girl group', 'doo-wop']",2004-10-02
+Dinah Washington,Baby (You've Got What It Takes),,False,165760,59,0.67,-9.347,133.396,0.852,0.596,0.813,0.653,0.0627,"['adult standards', 'jazz blues', 'lounge', 'soul', 'swing']",1960-07-05
+Dinah Washington,Baby (You've Got What It Takes),,False,165760,59,0.67,-9.347,133.396,0.852,0.596,0.813,0.653,0.0627,"['adult standards', 'jazz blues', 'lounge', 'soul', 'swing']",1960-07-05
+Chubby Checker,Let's Twist Again,,False,136666,0,0.605,-6.923,83.793,0.244,0.747,0.886,0.16,0.158,"['adult standards', 'brill building pop', 'doo-wop', 'rock-and-roll', 'rockabilly']",1961-01-01
+Chubby Checker,Let's Twist Again,,False,136666,0,0.605,-6.923,83.793,0.244,0.747,0.886,0.16,0.158,"['adult standards', 'brill building pop', 'doo-wop', 'rock-and-roll', 'rockabilly']",1961-01-01
+The Marcels,Blue Moon,,False,138360,49,0.624,-11.132,127.69,0.656,0.432,0.935,0.0785,0.0344,"['brill building pop', 'doo-wop', 'rhythm and blues', 'rock-and-roll', 'rockabilly']",1990-06-11
+The Marcels,Blue Moon,,False,138360,49,0.624,-11.132,127.69,0.656,0.432,0.935,0.0785,0.0344,"['brill building pop', 'doo-wop', 'rhythm and blues', 'rock-and-roll', 'rockabilly']",1990-06-11
+Bob Seger,Ramblin' Gamblin' Man,,False,145310,62,0.601,-3.828,130.811,0.0232,0.84,0.896,0.0569,0.0509,"['album rock', 'blues rock', 'classic rock', 'country rock', 'folk rock']",1969-04-01
+Bob Seger,Ramblin' Gamblin' Man,,False,145310,62,0.601,-3.828,130.811,0.0232,0.84,0.896,0.0569,0.0509,"['album rock', 'blues rock', 'classic rock', 'country rock', 'folk rock']",1969-04-01
+Roy Orbison,Crying,,False,166466,61,0.35,-9.502,96.685,0.758,0.293,0.162,0.104,0.0258,"['adult standards', 'brill building pop', 'folk rock', 'mellow gold', 'rock-and-roll']",1962-01-01
+Roy Orbison,Crying,,False,166466,61,0.35,-9.502,96.685,0.758,0.293,0.162,0.104,0.0258,"['adult standards', 'brill building pop', 'folk rock', 'mellow gold', 'rock-and-roll']",1962-01-01
+Roy Orbison,Only the Lonely,,False,145533,63,0.57,-10.769,123.273,0.377,0.529,0.934,0.203,0.028,"['adult standards', 'brill building pop', 'folk rock', 'mellow gold', 'rock-and-roll']",1961
+Roy Orbison,Only the Lonely,,False,145533,63,0.57,-10.769,123.273,0.377,0.529,0.934,0.203,0.028,"['adult standards', 'brill building pop', 'folk rock', 'mellow gold', 'rock-and-roll']",1961
+The Kinks,Sunny Afternoon - Mono Mix,,False,210525,67,0.595,-8.412,124.991,0.102,0.465,0.492,0.0641,0.026,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock']",1966-10-28
+The Kinks,Sunny Afternoon - Mono Mix,,False,210525,67,0.595,-8.412,124.991,0.102,0.465,0.492,0.0641,0.026,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock']",1966-10-28
+The Kinks,You Really Got Me - Mono Mix,,False,134253,72,0.573,-6.441,137.382,0.493,0.939,0.963,0.0994,0.0808,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock']",1964-10-02
+The Kinks,You Really Got Me - Mono Mix,,False,134253,72,0.573,-6.441,137.382,0.493,0.939,0.963,0.0994,0.0808,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock']",1964-10-02
+The Kinks,Lola,,False,241040,70,0.474,-4.19,152.113,0.582,0.917,0.902,0.201,0.0395,"['album rock', 'art rock', 'british invasion', 'classic rock', 'dance rock']",1970-11-27
+Bob Dylan,Like a Rolling Stone,,False,369600,75,0.483,-6.836,95.261,0.729,0.721,0.562,0.189,0.032,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold']",1965-08-30
+Bob Dylan,Like a Rolling Stone,,False,369600,75,0.483,-6.836,95.261,0.729,0.721,0.562,0.189,0.032,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold']",1965-08-30
+Bob Dylan,Knockin' On Heaven's Door,,False,149880,73,0.513,-13.061,140.208,0.251,0.396,0.229,0.11,0.0299,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold']",1973-07-13
+Simon & Garfunkel,The Sound of Silence - Acoustic Version,,False,185413,75,0.525,-13.551,106.761,0.837,0.216,0.328,0.107,0.0301,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold']",1964-10-19
+Simon & Garfunkel,The Sound of Silence - Acoustic Version,,False,185413,75,0.525,-13.551,106.761,0.837,0.216,0.328,0.107,0.0301,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold']",1964-10-19
+Simon & Garfunkel,"Mrs. Robinson - From ""The Graduate"" Soundtrack",,False,244026,77,0.606,-14.035,92.033,0.713,0.457,0.813,0.0747,0.0497,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold']",1968-04-03
+Simon & Garfunkel,"Mrs. Robinson - From ""The Graduate"" Soundtrack",,False,244026,77,0.606,-14.035,92.033,0.713,0.457,0.813,0.0747,0.0497,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold']",1968-04-03
+Simon & Garfunkel,Cecilia,,False,174826,73,0.755,-8.867,102.762,0.357,0.876,0.954,0.22,0.0362,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold']",1970-01-26
+Simon & Garfunkel,The Boxer,,False,308520,72,0.439,-14.464,93.017,0.702,0.488,0.629,0.16,0.0615,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold']",1970-01-26
+Simon & Garfunkel,Bridge Over Troubled Water,,False,293120,72,0.149,-13.888,79.764,0.822,0.206,0.264,0.115,0.0323,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold']",1970-01-26
+Bee Gees,I Started A Joke,,False,188306,68,0.31,-8.755,144.775,0.156,0.464,0.431,0.132,0.0275,"['adult standards', 'disco', 'mellow gold', 'soft rock']",1968-08-11
+Bee Gees,I Started A Joke,,False,188306,68,0.31,-8.755,144.775,0.156,0.464,0.431,0.132,0.0275,"['adult standards', 'disco', 'mellow gold', 'soft rock']",1968-08-11
+Bee Gees,Stayin' Alive - Remastered Version,,False,285200,0,0.675,-6.124,103.683,0.0696,0.899,0.91,0.33,0.0418,"['adult standards', 'disco', 'mellow gold', 'soft rock']",2004-11-09
+Bee Gees,How Deep Is Your Love,,False,245200,78,0.633,-9.366,104.938,0.105,0.357,0.674,0.133,0.0264,"['adult standards', 'disco', 'mellow gold', 'soft rock']",1979-01-01
+Bee Gees,"More Than A Woman - From ""Saturday Night Fever"" Soundtrack",,False,197213,72,0.632,-6.434,105.955,0.163,0.683,0.701,0.847,0.0383,"['adult standards', 'disco', 'mellow gold', 'soft rock']",1979-01-01
+Bee Gees,"You Should Be Dancing - Edit / From ""Saturday Night Fever"" Soundtrack",,False,256493,69,0.681,-10.911,123.009,0.0182,0.716,0.963,0.337,0.0333,"['adult standards', 'disco', 'mellow gold', 'soft rock']",1976-01-01
+Led Zeppelin,Good Times Bad Times - 1993 Remaster,,False,166266,70,0.476,-9.192,93.584,0.0382,0.717,0.753,0.0818,0.0949,"['album rock', 'classic rock', 'hard rock', 'rock']",1969-01-12
+Led Zeppelin,Good Times Bad Times - 1993 Remaster,,False,166266,70,0.476,-9.192,93.584,0.0382,0.717,0.753,0.0818,0.0949,"['album rock', 'classic rock', 'hard rock', 'rock']",1969-01-12
+Led Zeppelin,Whole Lotta Love - 1990 Remaster,,False,333893,78,0.412,-11.6,89.74,0.0484,0.902,0.422,0.405,0.405,"['album rock', 'classic rock', 'hard rock', 'rock']",1969-10-22
+Led Zeppelin,Whole Lotta Love - 1990 Remaster,,False,333893,78,0.412,-11.6,89.74,0.0484,0.902,0.422,0.405,0.405,"['album rock', 'classic rock', 'hard rock', 'rock']",1969-10-22
+Stevie Wonder,For Once In My Life,,False,169800,72,0.524,-11.903,110.121,0.195,0.519,0.847,0.523,0.043,"['adult standards', 'motown', 'quiet storm', 'soul']",1968-12-01
+Stevie Wonder,For Once In My Life,,False,169800,72,0.524,-11.903,110.121,0.195,0.519,0.847,0.523,0.043,"['adult standards', 'motown', 'quiet storm', 'soul']",1968-12-01
+Stevie Wonder,A Place In The Sun,,False,172960,53,0.561,-11.389,117.784,0.279,0.447,0.729,0.319,0.0544,"['adult standards', 'motown', 'quiet storm', 'soul']",1966-11-01
+Stevie Wonder,A Place In The Sun,,False,172960,53,0.561,-11.389,117.784,0.279,0.447,0.729,0.319,0.0544,"['adult standards', 'motown', 'quiet storm', 'soul']",1966-11-01
+Stevie Wonder,I Was Made To Love Her,,False,158666,35,0.349,-10.577,202.426,0.296,0.543,0.875,0.0665,0.0429,"['adult standards', 'motown', 'quiet storm', 'soul']",1967-08-01
+Stevie Wonder,I Was Made To Love Her,,False,158666,35,0.349,-10.577,202.426,0.296,0.543,0.875,0.0665,0.0429,"['adult standards', 'motown', 'quiet storm', 'soul']",1967-08-01
+Stevie Wonder,"Signed, Sealed, Delivered (I'm Yours)",,False,160500,2,0.67,-10.365,108.826,0.0514,0.619,0.807,0.0492,0.0323,"['adult standards', 'motown', 'quiet storm', 'soul']",1970-08-01
+Stevie Wonder,Part-Time Lover,,False,252560,69,0.662,-13.606,174.513,0.165,0.624,0.961,0.0674,0.0417,"['adult standards', 'motown', 'quiet storm', 'soul']",1985-09-13
+Buffalo Springfield,For What It's Worth,,False,153693,76,0.653,-10.164,98.883,0.406,0.519,0.822,0.101,0.0497,"['blues rock', 'classic rock', 'country rock', 'folk', 'folk rock']",1966-12-05
+Buffalo Springfield,For What It's Worth,,False,153693,76,0.653,-10.164,98.883,0.406,0.519,0.822,0.101,0.0497,"['blues rock', 'classic rock', 'country rock', 'folk', 'folk rock']",1966-12-05
+The Lovin' Spoonful,Do You Believe in Magic?,,False,125826,67,0.553,-7.963,138.602,0.213,0.738,0.759,0.339,0.0457,"['brill building pop', 'bubblegum pop', 'classic rock', 'country rock', 'folk']",1965-11
+The Lovin' Spoonful,Do You Believe in Magic?,,False,125826,67,0.553,-7.963,138.602,0.213,0.738,0.759,0.339,0.0457,"['brill building pop', 'bubblegum pop', 'classic rock', 'country rock', 'folk']",1965-11
+Gerry & The Pacemakers,Ferry Cross the Mersey - Stereo; 1997 Remaster,,False,143866,57,0.396,-11.494,105.289,0.548,0.286,0.605,0.122,0.0283,"['adult standards', 'brill building pop', 'british invasion', 'bubblegum pop', 'classic uk pop']",1965-02-01
+Gerry & The Pacemakers,Ferry Cross the Mersey - Stereo; 1997 Remaster,,False,143866,57,0.396,-11.494,105.289,0.548,0.286,0.605,0.122,0.0283,"['adult standards', 'brill building pop', 'british invasion', 'bubblegum pop', 'classic uk pop']",1965-02-01
+The Tremeloes,Silence Is Golden,,False,190933,54,0.436,-7.268,112.169,0.0557,0.565,0.582,0.244,0.0294,"['adult standards', 'beatlesque', 'brill building pop', 'british invasion', 'bubblegum pop']",1997-05-20
+The Tremeloes,Silence Is Golden,,False,190933,54,0.436,-7.268,112.169,0.0557,0.565,0.582,0.244,0.0294,"['adult standards', 'beatlesque', 'brill building pop', 'british invasion', 'bubblegum pop']",1997-05-20
+Steppenwolf,Born To Be Wild,,False,210373,74,0.438,-12.412,145.928,0.262,0.71,0.53,0.221,0.0919,"['acid rock', 'album rock', 'art rock', 'blues rock', 'classic canadian rock']",1968
+Steppenwolf,Born To Be Wild,,False,210373,74,0.438,-12.412,145.928,0.262,0.71,0.53,0.221,0.0919,"['acid rock', 'album rock', 'art rock', 'blues rock', 'classic canadian rock']",1968
+The Jackson 5,I Want You Back,,False,176333,76,0.469,-13.559,196.605,0.305,0.538,0.886,0.37,0.0571,"['adult standards', 'motown']",1969-12-18
+The Jackson 5,Who's Lovin' You,,False,235640,61,0.247,-13.16,161.982,0.648,0.307,0.403,0.281,0.0371,"['adult standards', 'motown']",1969-12-18
+The Jackson 5,I Want You Back,,False,176333,76,0.469,-13.559,196.605,0.305,0.538,0.886,0.37,0.0571,"['adult standards', 'motown']",1969-12-18
+The Jackson 5,Who's Lovin' You,,False,235640,61,0.247,-13.16,161.982,0.648,0.307,0.403,0.281,0.0371,"['adult standards', 'motown']",1969-12-18
+The Velvet Underground,Sunday Morning,,False,175893,68,0.506,-13.268,105.826,0.0869,0.442,0.532,0.0846,0.0276,"['alternative rock', 'art rock', 'classic rock', 'folk rock', 'melancholia']",1967-03-12
+The Velvet Underground,Sunday Morning,,False,175893,68,0.506,-13.268,105.826,0.0869,0.442,0.532,0.0846,0.0276,"['alternative rock', 'art rock', 'classic rock', 'folk rock', 'melancholia']",1967-03-12
+Jefferson Airplane,Somebody to Love,,False,174840,73,0.504,-9.302,132.411,0.408,0.578,0.654,0.321,0.031,"['acid rock', 'blues rock', 'classic rock', 'folk rock', 'psychedelic rock']",1967
+Jefferson Airplane,White Rabbit,,False,150640,70,0.551,-12.503,106.798,0.486,0.293,0.322,0.0864,0.0272,"['acid rock', 'blues rock', 'classic rock', 'folk rock', 'psychedelic rock']",1967
+Jefferson Airplane,Somebody to Love,,False,174840,73,0.504,-9.302,132.411,0.408,0.578,0.654,0.321,0.031,"['acid rock', 'blues rock', 'classic rock', 'folk rock', 'psychedelic rock']",1967
+Jefferson Airplane,White Rabbit,,False,150640,70,0.551,-12.503,106.798,0.486,0.293,0.322,0.0864,0.0272,"['acid rock', 'blues rock', 'classic rock', 'folk rock', 'psychedelic rock']",1967
+Four Tops,Baby I Need Your Loving,,False,166026,63,0.632,-6.116,121.414,0.437,0.686,0.65,0.193,0.0395,"['adult standards', 'brill building pop', 'classic soul', 'disco', 'funk']",1965-01-01
+Four Tops,Baby I Need Your Loving,,False,166026,63,0.632,-6.116,121.414,0.437,0.686,0.65,0.193,0.0395,"['adult standards', 'brill building pop', 'classic soul', 'disco', 'funk']",1965-01-01
+The 5th Dimension,Aquarius/Let The Sunshine In (The Flesh Failures) [Remastered],,False,290400,48,0.312,-10.05,118.235,0.47,0.555,0.491,0.084,0.0377,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk', 'folk rock']",2011-03-15
+The 5th Dimension,Aquarius/Let The Sunshine In (The Flesh Failures) [Remastered],,False,290400,48,0.312,-10.05,118.235,0.47,0.555,0.491,0.084,0.0377,"['adult standards', 'brill building pop', 'bubblegum pop', 'folk', 'folk rock']",2011-03-15
+Martha Reeves & The Vandellas,(Love Is Like A) Heat Wave,,False,163053,62,0.514,-9.287,166.726,0.513,0.624,0.755,0.307,0.0842,"['brill building pop', 'classic girl group', 'classic soul', 'motown', 'quiet storm']",1963
+Martha Reeves & The Vandellas,(Love Is Like A) Heat Wave,,False,163053,62,0.514,-9.287,166.726,0.513,0.624,0.755,0.307,0.0842,"['brill building pop', 'classic girl group', 'classic soul', 'motown', 'quiet storm']",1963
+The Temptations,Get Ready,,False,164160,64,0.59,-5.867,132.966,0.404,0.737,0.877,0.108,0.0384,"['brill building pop', 'classic soul', 'funk', 'memphis soul', 'motown']",1966
+The Temptations,Get Ready,,False,164160,64,0.59,-5.867,132.966,0.404,0.737,0.877,0.108,0.0384,"['brill building pop', 'classic soul', 'funk', 'memphis soul', 'motown']",1966
+Al Martino,Spanish Eyes,,False,166866,48,0.515,-8.565,109.29,0.359,0.49,0.495,0.0875,0.0284,"['adult standards', 'brill building pop', 'easy listening', 'lounge']",1977-01-01
+Al Martino,Spanish Eyes,,False,166866,48,0.515,-8.565,109.29,0.359,0.49,0.495,0.0875,0.0284,"['adult standards', 'brill building pop', 'easy listening', 'lounge']",1977-01-01
+Andy Williams,"Moon River (From ""Breakfast at Tiffany's"")",,False,162893,66,0.281,-15.513,95.555,0.86,0.212,0.195,0.119,0.031,"['adult standards', 'easy listening', 'mellow gold']",1962
+Andy Williams,"Moon River (From ""Breakfast at Tiffany's"")",,False,162893,66,0.281,-15.513,95.555,0.86,0.212,0.195,0.119,0.031,"['adult standards', 'easy listening', 'mellow gold']",1962
+The Animals,Don't Let Me Be Misunderstood,,False,145693,50,0.546,-9.604,112.584,0.146,0.568,0.488,0.77,0.0285,"['album rock', 'blues rock', 'british invasion', 'classic rock', 'folk rock']",2003-05-05
+The Animals,Don't Let Me Be Misunderstood,,False,145693,50,0.546,-9.604,112.584,0.146,0.568,0.488,0.77,0.0285,"['album rock', 'blues rock', 'british invasion', 'classic rock', 'folk rock']",2003-05-05
+The Band,The Night They Drove Old Dixie Down - Remastered 2000,,False,213266,36,0.507,-8.786,127.671,0.453,0.493,0.467,0.241,0.0327,"['album rock', 'blues rock', 'classic canadian rock', 'classic rock', 'cosmic american']",1969-09-22
+The Band,The Night They Drove Old Dixie Down - Remastered 2000,,False,213266,36,0.507,-8.786,127.671,0.453,0.493,0.467,0.241,0.0327,"['album rock', 'blues rock', 'classic canadian rock', 'classic rock', 'cosmic american']",1969-09-22
+Eric Clapton,Wonderful Tonight,,False,225026,77,0.572,-15.625,95.542,0.649,0.214,0.485,0.125,0.0293,"['album rock', 'blues rock', 'classic rock', 'electric blues', 'mellow gold']",1977-11-01
+Eric Clapton,I Shot The Sheriff,,False,263746,66,0.73,-11.025,94.395,0.0853,0.639,0.658,0.102,0.0524,"['album rock', 'blues rock', 'classic rock', 'electric blues', 'mellow gold']",1974-07-01
+Eric Clapton,Layla,,False,260440,0,0.51,-14.317,94.04,0.286,0.389,0.621,0.644,0.0384,"['album rock', 'blues rock', 'classic rock', 'electric blues', 'mellow gold']",1992-08-25
+Elton John,"Rocket Man (I Think It's Going To Be A Long, Long Time)",,False,281613,82,0.601,-9.119,136.571,0.432,0.532,0.341,0.0925,0.0286,"['glam rock', 'mellow gold', 'piano rock', 'soft rock']",1972-05-19
+Elton John,Tiny Dancer,,False,377093,80,0.414,-11.097,145.075,0.382,0.428,0.282,0.148,0.0278,"['glam rock', 'mellow gold', 'piano rock', 'soft rock']",1971-11-05
+"Earth, Wind & Fire",September,,False,215080,68,0.694,-7.288,125.901,0.165,0.831,0.98,0.25,0.0301,"['disco', 'funk', 'jazz funk', 'motown', 'quiet storm']",2014-03-25
+Eagles,Hotel California - 2013 Remaster,,False,391376,62,0.579,-9.484,147.125,0.00574,0.508,0.609,0.0575,0.027,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock']",2003-10-21
+Eagles,Take It Easy - 2013 Remaster,,False,211577,77,0.575,-10.39,139.191,0.343,0.67,0.74,0.129,0.0318,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock']",1972
+Eagles,One of These Nights - 2013 Remaster,,False,291685,70,0.655,-10.385,110.061,0.0603,0.606,0.765,0.0757,0.0285,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock']",1975
+Barry White,"You're The First, The Last, My Everything",,False,208933,67,0.631,-12.138,130.145,0.00367,0.59,0.927,0.0537,0.0297,"['adult standards', 'disco', 'funk', 'motown', 'quiet storm']",1994-08-10
+TOTO,Hold the Line,,False,236106,66,0.482,-7.68,96.444,0.0191,0.835,0.776,0.162,0.0539,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock']",2014-06-23
+George Harrison,All Things Must Pass - 2020 Mix,,False,226960,61,0.46,-6.32,122.014,0.446,0.586,0.489,0.0831,0.0281,"['album rock', 'beatlesque', 'classic rock', 'folk rock', 'mellow gold']",2020-11-27
+George Harrison,My Sweet Lord - Remastered 2014,,False,281226,77,0.537,-8.913,120.919,0.0972,0.701,0.583,0.0832,0.0335,"['album rock', 'beatlesque', 'classic rock', 'folk rock', 'mellow gold']",1970-11-27
+Blondie,Heart Of Glass - Single Version / Remastered,,False,252893,53,0.728,-8.027,114.686,0.0011,0.68,0.441,0.0725,0.0338,"['candy pop', 'dance rock', 'new wave', 'new wave pop', 'permanent wave']",1979-01-03
+Captain & Tennille,Do That To Me One More Time,,False,256666,68,0.728,-8.227,90.262,0.563,0.524,0.51,0.0913,0.0255,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'disco']",1979-01-01
+The Hollies,The Air That I Breathe - 2008 Remaster,,False,257106,68,0.279,-8.375,167.792,0.242,0.473,0.246,0.158,0.0309,"['album rock', 'art rock', 'brill building pop', 'british invasion', 'bubblegum pop']",1974-03-01
+The Hollies,He Ain't Heavy He's My Brother - 1998 Remaster,,False,262266,63,0.304,-7.769,75.928,0.46,0.421,0.216,0.163,0.0293,"['album rock', 'art rock', 'brill building pop', 'british invasion', 'bubblegum pop']",1970-11-01
+Chicago,If You Leave Me Now,,False,235373,75,0.429,-6.784,104.212,0.0193,0.564,0.276,0.128,0.0268,"['adult standards', 'album rock', 'classic rock', 'folk rock', 'mellow gold']",1976-06-14
+Patti Smith,Because the Night,,False,204800,67,0.466,-7.748,123.539,0.0542,0.763,0.473,0.119,0.0391,"['art punk', 'art rock', 'dance rock', 'folk rock', 'permanent wave']",1978
+Janis Joplin,Me and Bobby McGee,,False,271333,73,0.43,-10.96,93.405,0.303,0.463,0.66,0.152,0.0442,"['blues rock', 'classic rock', 'psychedelic rock', 'rock']",1971-01-11
+Janis Joplin,Cry Baby,,False,237400,0,0.488,-9.676,83.975,0.491,0.418,0.515,0.051,0.0313,"['blues rock', 'classic rock', 'psychedelic rock', 'rock']",2003-01-14
+Johnny Nash,I Can See Clearly Now,,False,166933,59,0.658,-13.19,124.227,0.518,0.468,0.684,0.066,0.0493,"['brill building pop', 'bubblegum pop', 'classic uk pop', 'motown']",1996-05-04
+Don McLean,American Pie,,False,516893,76,0.531,-11.709,138.45,0.699,0.481,0.491,0.0842,0.06,"['adult standards', 'classic rock', 'folk', 'folk rock', 'mellow gold']",1971
+Don McLean,Vincent,,False,243493,71,0.419,-19.387,91.509,0.908,0.085,0.458,0.34,0.0362,"['adult standards', 'classic rock', 'folk', 'folk rock', 'mellow gold']",1971
+Van Morrison,Moondance - 2013 Remaster,,False,274040,69,0.606,-12.207,67.409,0.501,0.282,0.563,0.152,0.0339,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'rock']",1970-02
+Van Morrison,Into the Mystic - 2013 Remaster,,False,205613,74,0.608,-10.266,86.204,0.367,0.524,0.797,0.115,0.0309,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'rock']",1970-02
+Nick Drake,Pink Moon,,False,123333,71,0.638,-15.68,82.479,0.819,0.256,0.438,0.145,0.0492,"['art rock', 'british folk', 'folk', 'folk rock', 'freak folk']",1972-02-25
+Rod Stewart,Da Ya Think I'm Sexy?,,False,331333,70,0.715,-8.065,111.504,0.0143,0.689,0.852,0.111,0.029,"['mellow gold', 'soft rock']",1978-11-24
+Rod Stewart,I Don't Want to Talk About It - 2008 Remaster,,False,288266,69,0.472,-12.98,135.193,0.872,0.373,0.459,0.147,0.0262,"['mellow gold', 'soft rock']",1975
+Rod Stewart,Sailing - 2008 Remaster,,False,278600,57,0.434,-13.763,128.751,0.325,0.315,0.198,0.131,0.0298,"['mellow gold', 'soft rock']",2008-11-16
+Rod Stewart,Maggie May - Remastered Version,,False,345680,50,0.62,-10.568,129.401,0.717,0.559,0.527,0.133,0.0369,"['mellow gold', 'soft rock']",2008-11-16
+Rod Stewart,All for Love,,False,281200,70,0.51,-11.015,74.8,0.125,0.44,0.135,0.0994,0.0293,"['mellow gold', 'soft rock']",1996-11-12
+Commodores,Easy,,False,256426,76,0.589,-15.075,132.909,0.112,0.384,0.354,0.0596,0.0332,"['adult standards', 'disco', 'funk', 'mellow gold', 'motown']",1977-01-01
+Commodores,Brick House,,False,208893,66,0.831,-10.48,107.877,0.0731,0.782,0.631,0.032,0.0595,"['adult standards', 'disco', 'funk', 'mellow gold', 'motown']",1977-01-01
+Cher,"Gypsys, Tramps & Thieves",,False,158000,57,0.476,-11.175,170.879,0.211,0.677,0.691,0.0601,0.0365,"['dance pop', 'hollywood', 'new wave pop', 'pop']",1971-01-01
+Cher,If I Could Turn Back Time,,False,239826,73,0.658,-10.365,108.329,0.243,0.575,0.504,0.122,0.0267,"['dance pop', 'hollywood', 'new wave pop', 'pop']",1989-01-01
+Cher,Believe,,False,239026,76,0.652,-6.72,132.975,0.0082,0.917,0.459,0.0509,0.0548,"['dance pop', 'hollywood', 'new wave pop', 'pop']",1998
+Cher,Strong Enough,,False,224000,67,0.593,-6.19,124.862,0.0495,0.923,0.587,0.29,0.101,"['dance pop', 'hollywood', 'new wave pop', 'pop']",1998
+Billy Ocean,Love Really Hurts Without You,,False,179013,71,0.518,-3.732,140.982,0.00221,0.907,0.961,0.0838,0.0343,"['dance rock', 'disco', 'europop', 'mellow gold', 'motown']",1976-01-05
+Billy Ocean,"When the Going Gets Tough, The Tough Get Going",,False,248000,64,0.754,-6.318,122.047,0.407,0.763,0.932,0.318,0.0473,"['dance rock', 'disco', 'europop', 'mellow gold', 'motown']",2010-04-26
+Billy Ocean,"Get Outta My Dreams, Get Into My Car",,False,284373,64,0.666,-6.457,117.141,0.0879,0.91,0.919,0.335,0.0399,"['dance rock', 'disco', 'europop', 'mellow gold', 'motown']",2010-04-26
+Billy Ocean,Caribbean Queen (No More Love On the Run),,False,244426,68,0.79,-7.506,113.797,0.166,0.649,0.954,0.092,0.0265,"['dance rock', 'disco', 'europop', 'mellow gold', 'motown']",2010-04-26
+The Doors,Riders on the Storm,,False,434720,75,0.549,-11.729,103.885,0.25,0.722,0.716,0.11,0.0283,"['acid rock', 'album rock', 'classic rock', 'psychedelic rock', 'rock']",1971-04-19
+Baccara,"Yes Sir, I Can Boogie",,False,273866,66,0.454,-7.653,122.536,0.127,0.769,0.49,0.175,0.0815,"['classic uk pop', 'disco', 'europop']",1993-06-14
+Suzi Quatro,Stumblin' In - 2017 Remaster,,False,239529,62,0.761,-10.549,129.269,0.126,0.723,0.923,0.345,0.0313,"['classic uk pop', 'glam rock']",1978-08-12
+Tina Charles,I Love to Love,,False,183693,60,0.677,-9.344,99.419,0.143,0.703,0.962,0.514,0.0344,"['classic uk pop', 'disco', 'hi-nrg']",1997-06-06
+Frankie Valli,Grease - 2007 Remaster,,False,207306,65,0.82,-8.45,109.374,0.156,0.464,0.872,0.101,0.0481,"['adult standards', 'brill building pop', 'bubblegum pop', 'mellow gold', 'soft rock']",1978
+The O'Jays,Love Train,,False,178400,69,0.744,-9.629,122.657,0.186,0.568,0.687,0.163,0.0494,"['classic soul', 'disco', 'funk', 'motown', 'philly soul']",1972
+Bill Withers,Ain't No Sunshine,,False,125093,78,0.479,-11.451,79.593,0.457,0.416,0.514,0.118,0.124,"['funk', 'motown', 'quiet storm', 'soul']",1971-05-01
+Bill Withers,Lovely Day,,False,254560,76,0.69,-8.267,97.918,0.292,0.651,0.706,0.105,0.0324,"['funk', 'motown', 'quiet storm', 'soul']",1977-10-29
+Bill Withers,Lean on Me,,False,258834,72,0.619,-13.843,75.16,0.782,0.22,0.423,0.124,0.0667,"['funk', 'motown', 'quiet storm', 'soul']",1972-05-01
+King Harvest,Dancing In The Moonlight,,False,178045,58,0.653,-5.262,136.153,0.684,0.719,0.682,0.408,0.0363,['soft rock'],1973-01-01
+ABBA,Mamma Mia,,False,213266,73,0.749,-7.011,137.547,0.295,0.748,0.827,0.469,0.0323,"['europop', 'swedish pop']",1975
+The Doobie Brothers,Listen to the Music,,False,227266,76,0.645,-13.18,105.929,0.221,0.598,0.913,0.0721,0.0335,"['album rock', 'art rock', 'blues rock', 'classic rock', 'country rock']",1972
+The Doobie Brothers,Long Train Runnin',,False,207266,72,0.575,-7.275,117.399,0.0916,0.912,0.843,0.0562,0.0393,"['album rock', 'art rock', 'blues rock', 'classic rock', 'country rock']",1973
+Supertramp,Give A Little Bit,,False,248173,76,0.531,-5.358,90.767,0.0694,0.818,0.471,0.263,0.0452,"['album rock', 'art rock', 'classic rock', 'glam rock', 'mellow gold']",1977-01-01
+Supertramp,Breakfast In America - Remastered,,False,159346,71,0.532,-5.886,75.14,0.425,0.663,0.756,0.0734,0.0292,"['album rock', 'art rock', 'classic rock', 'glam rock', 'mellow gold']",1979-03-29
+Supertramp,The Logical Song - Remastered 2010,,False,251253,74,0.625,-6.213,119.719,0.512,0.758,0.695,0.153,0.0463,"['album rock', 'art rock', 'classic rock', 'glam rock', 'mellow gold']",1979-03-29
+Neil Young,Heart of Gold - 2009 Remaster,,False,187013,74,0.541,-10.433,171.165,0.189,0.459,0.803,0.099,0.0297,"['album rock', 'canadian singer-songwriter', 'classic canadian rock', 'classic rock', 'mellow gold']",1972-02-14
+The Trammps,Disco Inferno - Single Edit,,False,191573,65,0.766,-3.851,129.323,0.0261,0.844,0.835,0.18,0.0361,"['disco', 'motown', 'philly soul', 'post-disco']",2005-09-20
+Gerry Rafferty,Baker Street,,False,365626,69,0.497,-14.0,113.762,0.0929,0.349,0.421,0.259,0.0297,"['album rock', 'art rock', 'classic rock', 'classic uk pop', 'country rock']",1978
+Dr. Hook,When You're In Love With A Beautiful Woman,,False,178826,63,0.679,-9.539,109.623,0.405,0.728,0.852,0.0506,0.0378,"['bubblegum pop', 'classic rock', 'classic uk pop', 'country rock', 'folk rock']",1978
+Rupert Holmes,Escape (The Pina Colada Song),,False,276493,74,0.836,-13.668,138.714,0.467,0.509,0.949,0.0436,0.0548,"['soft rock', 'yacht rock']",1979-01-01
+Cheap Trick,Surrender,,False,253733,69,0.524,-7.081,133.849,0.00717,0.955,0.869,0.659,0.0411,"['album rock', 'art rock', 'beatlesque', 'classic rock', 'dance rock']",1978-04
+John Lennon,Imagine - Remastered 2010,,False,187866,79,0.547,-12.358,75.752,0.907,0.257,0.169,0.0935,0.0252,"['album rock', 'beatlesque', 'classic rock', 'folk rock', 'mellow gold']",1971-09-09
+Bruce Springsteen,Born to Run,,False,269920,73,0.27,-4.199,146.347,0.00501,0.944,0.606,0.116,0.0975,"['classic rock', 'heartland rock', 'mellow gold', 'permanent wave', 'rock']",1975-08-25
+Bruce Springsteen,I'm On Fire,,False,155880,75,0.62,-14.451,88.591,0.589,0.446,0.868,0.0727,0.0347,"['classic rock', 'heartland rock', 'mellow gold', 'permanent wave', 'rock']",1984-06-04
+Bruce Springsteen,Streets of Philadelphia,,False,195800,0,0.728,-15.429,93.683,0.327,0.249,0.452,0.0875,0.0328,"['classic rock', 'heartland rock', 'mellow gold', 'permanent wave', 'rock']",1973
+The Emotions,Best of My Love,,False,220560,68,0.784,-6.865,115.443,0.447,0.713,0.97,0.0904,0.0339,"['chicago soul', 'classic soul', 'disco', 'funk', 'girl group']",1977-06-10
+Lou Reed,Walk On the Wild Side,,False,254173,76,0.575,-16.729,104.522,0.683,0.318,0.385,0.0934,0.109,"['art rock', 'classic rock', 'dance rock', 'glam rock', 'permanent wave']",1972-12-01
+Billy Joel,Piano Man,,False,339000,76,0.331,-6.483,177.734,0.605,0.55,0.429,0.192,0.0272,"['album rock', 'classic rock', 'folk rock', 'mellow gold', 'piano rock']",1973-11-07
+Hot Chocolate,You Sexy Thing,,False,244920,72,0.791,-5.464,105.854,0.522,0.734,0.962,0.167,0.0629,"['classic uk pop', 'disco', 'mellow gold', 'motown', 'new wave pop']",1975
+ZZ Top,La Grange - 2005 Remaster,,False,230480,76,0.545,-9.937,80.544,0.00249,0.64,0.606,0.196,0.224,"['album rock', 'blues rock', 'classic rock', 'country rock', 'hard rock']",1973-07-26
+Boston,More Than a Feeling,,False,285133,79,0.377,-8.039,108.736,0.000894,0.682,0.288,0.0504,0.0299,"['album rock', 'art rock', 'classic rock', 'country rock', 'hard rock']",1976
+Derek & The Dominos,Layla,,False,423840,75,0.404,-3.88,115.669,0.577,0.902,0.497,0.287,0.0665,"['album rock', 'art rock', 'blues', 'blues rock', 'british blues']",1970-11-01
+Kansas,Carry on Wayward Son,,False,322093,64,0.452,-5.712,126.739,0.00283,0.788,0.793,0.441,0.0326,"['album rock', 'art rock', 'bow pop', 'classic rock', 'hard rock']",2010
+Kansas,Dust in the Wind,,False,206266,78,0.475,-10.687,93.503,0.367,0.322,0.387,0.11,0.0283,"['album rock', 'art rock', 'bow pop', 'classic rock', 'hard rock']",1977
+Steve Miller Band,Jet Airliner,,False,215666,67,0.574,-11.5,122.956,0.0737,0.664,0.936,0.22,0.0346,"['album rock', 'blues rock', 'classic rock', 'country rock', 'folk rock']",1978-01-01
+Steve Miller Band,The Joker,,False,217800,62,0.417,-13.487,165.451,0.454,0.339,0.719,0.135,0.0819,"['album rock', 'blues rock', 'classic rock', 'country rock', 'folk rock']",1978-01-01
+Steve Miller Band,Fly Like An Eagle,,False,282693,68,0.561,-12.769,100.08,0.61,0.754,0.642,0.328,0.112,"['album rock', 'blues rock', 'classic rock', 'country rock', 'folk rock']",1976-01-01
+Steve Miller Band,The Joker,,False,264503,76,0.596,-9.616,83.293,0.365,0.448,0.796,0.206,0.0396,"['album rock', 'blues rock', 'classic rock', 'country rock', 'folk rock']",1973-01-01
+Fleetwood Mac,Go Your Own Way - 2004 Remaster,,False,223613,77,0.583,-5.12,135.448,0.0185,0.947,0.803,0.0679,0.0378,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock']",1977-02-04
+Fleetwood Mac,Dreams - 2004 Remaster,,False,257800,89,0.828,-9.744,120.151,0.0644,0.492,0.789,0.128,0.0276,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock']",1977-02-04
+Fleetwood Mac,The Chain - 2004 Remaster,,False,270213,82,0.545,-8.81,151.553,0.009,0.67,0.481,0.0451,0.0496,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock']",1977-02-04
+Fleetwood Mac,Landslide,,False,199493,79,0.414,-22.32,159.375,0.883,0.161,0.423,0.117,0.0318,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock']",1975-07-11
+KISS,I Was Made For Lovin' You,,False,271240,80,0.768,-6.215,128.373,0.214,0.852,0.867,0.0723,0.038,"['album rock', 'classic rock', 'glam rock', 'hard rock', 'metal']",1979-03-23
+Free,All Right Now,,False,208933,52,0.75,-12.812,121.765,0.00872,0.506,0.78,0.123,0.304,"['album rock', 'art rock', 'blues rock', 'british blues', 'classic rock']",2000-01-01
+Dire Straits,Sultans Of Swing,,False,348400,81,0.733,-10.023,148.174,0.0614,0.794,0.931,0.33,0.0307,"['album rock', 'blues rock', 'classic rock', 'mellow gold', 'rock']",1978-10-07
+Electric Light Orchestra,Don't Bring Me Down,,False,243373,72,0.638,-6.469,115.692,0.144,0.867,0.805,0.0846,0.0331,"['album rock', 'art rock', 'beatlesque', 'bow pop', 'classic rock']",1979-05-31
+Donny Hathaway,A Song for You,,False,325946,65,0.315,-13.156,88.045,0.822,0.22,0.0723,0.245,0.037,"['chicago soul', 'classic soul', 'funk', 'motown', 'neo soul']",1971
+Peter Gabriel,Solsbury Hill,,False,261560,71,0.678,-8.624,102.378,0.355,0.631,0.463,0.376,0.0301,"['album rock', 'art pop', 'art rock', 'classic rock', 'dance rock']",1977
+Michael Jackson,Rock with You - Single Version,,False,220626,74,0.808,-12.521,114.031,0.179,0.535,0.848,0.158,0.0353,"['pop', 'r&b', 'soul']",1979-08-10
+Michael Jackson,She's Out of My Life - Single Version,,False,218266,59,0.293,-23.92,130.959,0.962,0.0348,0.101,0.105,0.0414,"['pop', 'r&b', 'soul']",1979-08-10
+Michael Jackson,Billie Jean,,False,293826,84,0.92,-3.051,117.046,0.0236,0.654,0.847,0.0359,0.0401,"['pop', 'r&b', 'soul']",1982-11-30
+Michael Jackson,Thriller,,False,357493,62,0.776,-4.943,118.418,0.0913,0.857,0.799,0.918,0.0704,"['pop', 'r&b', 'soul']",2009
+Michael Jackson,Somebody's Watching Me - Single Version,,False,237760,49,0.767,-4.128,124.092,0.0409,0.712,0.804,0.132,0.0324,"['pop', 'r&b', 'soul']",2017-09-27
+Michael Jackson,Heal the World,,False,384306,70,0.545,-8.045,80.948,0.537,0.485,0.101,0.104,0.0485,"['pop', 'r&b', 'soul']",1991-11-13
+Art Garfunkel,Bright Eyes,,False,238600,61,0.38,-15.603,112.51,0.745,0.21,0.207,0.0829,0.0319,"['adult standards', 'folk', 'folk rock', 'mellow gold', 'soft rock']",1979-03-15
+Lobo,I'd Love You to Want Me,,False,247640,67,0.431,-9.96,77.507,0.122,0.543,0.44,0.0598,0.0394,"['adult standards', 'brill building pop', 'bubblegum pop', 'classic uk pop', 'folk']",1972
+"Grover Washington, Jr.",Just the Two of Us (feat. Bill Withers),,False,237106,59,0.803,-9.303,95.771,0.576,0.488,0.624,0.0763,0.0803,['jazz funk'],1979
+Tracy Chapman,Baby Can I Hold You,,False,193120,77,0.692,-10.533,74.375,0.0811,0.422,0.468,0.0848,0.0333,"['folk', 'lilith', 'pop rock', 'singer-songwriter', ""women's music""]",1988-04-05
+U2,I Still Haven't Found What I'm Looking For - Remastered 2007,,False,277480,0,0.565,-9.43,100.891,0.0139,0.764,0.686,0.079,0.0351,"['irish rock', 'permanent wave', 'rock']",1987-03-10
+U2,Beautiful Day,,False,248400,74,0.536,-6.492,136.258,0.0154,0.928,0.389,0.2,0.0589,"['irish rock', 'permanent wave', 'rock']",2000-01-01
+Tina Turner,What's Love Got to Do with It,,False,226880,75,0.851,-11.631,97.84,0.219,0.406,0.792,0.0853,0.0661,"['disco', 'europop', 'new wave pop', 'soft rock']",1993
+Huey Lewis & The News,The Power Of Love,,False,234333,77,0.768,-5.109,118.773,0.0964,0.829,0.962,0.097,0.0313,"['album rock', 'classic rock', 'dance rock', 'folk rock', 'mellow gold']",2006-01-01
+Huey Lewis & The News,Stuck With You,,False,269573,65,0.704,-11.402,120.717,0.0873,0.544,0.628,0.041,0.026,"['album rock', 'classic rock', 'dance rock', 'folk rock', 'mellow gold']",1986-01-01
+Huey Lewis & The News,Hip To Be Square,,False,245466,66,0.668,-11.089,140.873,0.0025,0.779,0.963,0.139,0.0325,"['album rock', 'classic rock', 'dance rock', 'folk rock', 'mellow gold']",1986-01-01
+Barbra Streisand,Woman in Love,,False,231840,70,0.469,-16.311,169.735,0.248,0.278,0.331,0.133,0.028,"['adult standards', 'mellow gold', 'soft rock']",1980-09-23
+Barbra Streisand,Guilty (feat. Barry Gibb),,False,264333,67,0.626,-15.656,150.875,0.231,0.425,0.952,0.114,0.0356,"['adult standards', 'mellow gold', 'soft rock']",1980-09-23
+Bryan Adams,Summer Of '69,,False,216053,82,0.508,-6.205,139.131,0.0183,0.834,0.774,0.0732,0.0386,"['album rock', 'canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock']",1984-11-05
+Bryan Adams,When You're Gone,,False,204893,68,0.546,-6.344,125.495,0.000299,0.931,0.643,0.11,0.0341,"['album rock', 'canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock']",1998-01-01
+Bryan Adams,(Everything I Do) I Do It For You,,False,393640,77,0.533,-12.633,131.229,0.0805,0.36,0.299,0.0631,0.0282,"['album rock', 'canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock']",1991-09-24
+Glenn Frey,"The Heat Is On - From ""Beverly Hills Cop"" Soundtrack",,False,227800,63,0.622,-6.369,149.706,0.0167,0.865,0.87,0.0692,0.0531,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock']",2018-04-27
+Whitney Houston,I Wanna Dance with Somebody (Who Loves Me),,False,291293,83,0.709,-8.824,118.818,0.207,0.824,0.867,0.0888,0.0453,"['dance pop', 'pop', 'urban contemporary']",1987-06-02
+Whitney Houston,Where Do Broken Hearts Go,,False,277600,67,0.462,-12.173,61.876,0.635,0.385,0.244,0.0682,0.0291,"['dance pop', 'pop', 'urban contemporary']",1987-06-02
+Whitney Houston,Saving All My Love for You,,False,238466,66,0.636,-14.567,99.304,0.593,0.264,0.264,0.275,0.0263,"['dance pop', 'pop', 'urban contemporary']",1985-02-14
+Whitney Houston,How Will I Know,,False,275533,72,0.832,-12.697,119.49,0.201,0.544,0.928,0.632,0.0442,"['dance pop', 'pop', 'urban contemporary']",1985-02-14
+Whitney Houston,I'm Every Woman,,False,285106,60,0.666,-8.312,119.541,0.0176,0.848,0.402,0.126,0.0529,"['dance pop', 'pop', 'urban contemporary']",1992-11-17
+Whitney Houston,It's Not Right But It's Okay,,False,292400,0,0.805,-7.076,127.901,0.143,0.807,0.527,0.0729,0.0833,"['dance pop', 'pop', 'urban contemporary']",1998-11-17
+Whitney Houston,When You Believe (with Mariah Carey) - from The Prince of Egypt,,False,272893,68,0.436,-9.62,125.313,0.557,0.39,0.119,0.12,0.0326,"['dance pop', 'pop', 'urban contemporary']",1998-11-17
+Pet Shop Boys,It's a Sin - 2001 Remaster,,False,299306,66,0.538,-5.916,127.153,0.252,0.86,0.291,0.247,0.0435,"['art pop', 'dance pop', 'dance rock', 'europop', 'new romantic']",1987-09-07
+Pet Shop Boys,Always on My Mind,,False,234906,71,0.533,-10.61,124.874,0.0116,0.783,0.726,0.186,0.0366,"['art pop', 'dance pop', 'dance rock', 'europop', 'new romantic']",1998-03-31
+Pet Shop Boys,West End Girls - 2001 Remaster,,False,285733,63,0.651,-6.566,113.257,0.00737,0.949,0.61,0.286,0.0403,"['art pop', 'dance pop', 'dance rock', 'europop', 'new romantic']",1986-03-24
+Lisa Stansfield,All Around the World - Remastered,,False,265760,65,0.671,-4.598,101.201,0.573,0.914,0.806,0.0856,0.107,"['british soul', 'dance pop', 'disco', 'new wave pop', 'soft rock']",1989
+Bronski Beat,Smalltown Boy,,False,302413,73,0.685,-10.616,134.546,0.288,0.584,0.939,0.124,0.0276,"['dance rock', 'hi-nrg', 'new romantic', 'new wave', 'new wave pop']",1984-10-15
+Soul II Soul,Back To Life,,False,228266,64,0.817,-11.659,100.978,0.0525,0.485,0.672,0.0391,0.143,"['british soul', 'funk', 'hip house', 'post-disco', 'quiet storm']",1989-01-01
+Phil Collins,A Groovy Kind of Love,,False,210733,65,0.452,-9.632,144.125,0.235,0.306,0.182,0.0989,0.0274,"['mellow gold', 'rock drums', 'soft rock']",2004-09-14
+Phil Collins,Another Day in Paradise - 2016 Remaster,,False,322133,75,0.78,-7.32,101.967,0.736,0.565,0.365,0.063,0.0306,"['mellow gold', 'rock drums', 'soft rock']",1989-11-20
+Phil Collins,In The Air Tonight - 2015 Remastered,,False,336453,78,0.446,-13.945,189.507,0.551,0.239,0.298,0.0697,0.0316,"['mellow gold', 'rock drums', 'soft rock']",1981-01-01
+Phil Collins,You Can't Hurry Love - 2016 Remaster,,False,175746,77,0.62,-4.593,97.527,0.0261,0.936,0.763,0.0679,0.0308,"['mellow gold', 'rock drums', 'soft rock']",1982-11-05
+Phil Collins,Sussudio - 2016 Remaster,,False,263106,67,0.714,-5.195,121.232,0.0529,0.935,0.725,0.0515,0.0849,"['mellow gold', 'rock drums', 'soft rock']",1985-01-25
+Cameo,Word Up,,False,260000,65,0.878,-13.105,116.222,0.0421,0.84,0.882,0.053,0.064,"['disco', 'electro', 'funk', 'motown', 'new jack swing']",1986-01-01
+Kim Wilde,You Keep Me Hangin On,,False,255220,63,0.686,-12.154,123.44,0.0806,0.682,0.708,0.14,0.033,"['dance rock', 'europop', 'new romantic', 'new wave', 'new wave pop']",1986
+Lionel Richie,All Night Long (All Night) - Single Version,,False,258666,72,0.748,-12.044,108.831,0.15,0.603,0.827,0.0269,0.043,"['adult standards', 'disco', 'mellow gold', 'motown', 'quiet storm']",1992-01-01
+Lionel Richie,Endless Love,,False,266800,72,0.483,-11.809,93.47,0.866,0.268,0.182,0.145,0.0257,"['adult standards', 'disco', 'mellow gold', 'motown', 'quiet storm']",1992-01-01
+Lionel Richie,Endless Love,,False,266800,72,0.483,-11.809,93.47,0.866,0.268,0.182,0.145,0.0257,"['adult standards', 'disco', 'mellow gold', 'motown', 'quiet storm']",1992-01-01
+Lionel Richie,Stuck On You,,False,192066,72,0.509,-16.063,131.783,0.621,0.317,0.247,0.0878,0.0305,"['adult standards', 'disco', 'mellow gold', 'motown', 'quiet storm']",1983-01-01
+Lionel Richie,Hello,,False,246933,69,0.424,-15.053,61.648,0.646,0.222,0.0606,0.148,0.0391,"['adult standards', 'disco', 'mellow gold', 'motown', 'quiet storm']",1983-01-01
+Lionel Richie,Dancing On The Ceiling,,False,270720,69,0.698,-8.642,133.197,0.12,0.774,0.731,0.394,0.048,"['adult standards', 'disco', 'mellow gold', 'motown', 'quiet storm']",1986
+Lionel Richie,"Say You, Say Me",,False,241066,72,0.636,-11.113,128.068,0.355,0.405,0.257,0.0804,0.0287,"['adult standards', 'disco', 'mellow gold', 'motown', 'quiet storm']",1986
+Laura Branigan,Gloria,,False,289853,62,0.776,-6.807,131.343,0.107,0.743,0.84,0.149,0.0289,"['dance rock', 'europop', 'new romantic', 'new wave pop', 'soft rock']",1982-03-10
+The Pointer Sisters,Jump (Original Mix),,False,262560,66,0.846,-7.909,134.454,0.0867,0.826,0.813,0.12,0.098,"['dance pop', 'dance rock', 'disco', 'europop', 'girl group']",1983-04-01
+The Pointer Sisters,I'm So Excited,,False,230640,73,0.59,-5.832,184.348,0.0962,0.868,0.798,0.442,0.048,"['dance pop', 'dance rock', 'disco', 'europop', 'girl group']",1982-02-01
+Culture Club,Karma Chameleon - Remastered,,False,252773,74,0.668,-7.182,92.049,0.225,0.73,0.894,0.188,0.0366,"['dance rock', 'disco', 'europop', 'new romantic', 'new wave']",1983-10-01
+The Communards,Don't Leave Me This Way (with Sarah Jane Morris),,False,271066,68,0.64,-5.597,131.997,0.135,0.926,0.901,0.134,0.0322,"['dance rock', 'hi-nrg', 'new romantic', 'new wave', 'new wave pop']",1986-01-01
+Ultravox,Dancing with Tears in My Eyes - Single Version / 2009 Remaster,,False,249493,58,0.592,-6.9,144.262,0.0856,0.916,0.886,0.161,0.0482,"['art rock', 'classic uk pop', 'dance rock', 'new romantic', 'new wave']",1984-06-09
+Bonnie Tyler,Total Eclipse of the Heart,,False,269560,0,0.433,-11.344,130.2,0.194,0.559,0.178,0.0732,0.0636,"['europop', 'new wave pop', 'soft rock']",1995
+Bonnie Tyler,"Holding Out for a Hero - From ""Footloose"" Soundtrack",,False,348333,73,0.615,-15.29,150.057,0.0243,0.683,0.896,0.0491,0.04,"['europop', 'new wave pop', 'soft rock']",1986-05-05
+Philip Bailey,Easy Lover,,False,305866,68,0.74,-5.082,128.871,0.105,0.923,0.93,0.0825,0.0369,['yacht rock'],1984-10-01
+Limahl,Never Ending Story,,False,212173,65,0.599,-13.971,122.312,0.359,0.622,0.851,0.114,0.0296,"['new romantic', 'new wave pop', 'synthpop']",2009-09-25
+Jan Hammer,"Crockett's Theme - From ""Miami Vice II"" Soundtrack",,False,214933,61,0.408,-16.604,191.364,0.424,0.385,0.399,0.101,0.0317,['jazz fusion'],1991-05-27
+George Michael,Faith - Remastered,,False,193200,59,0.887,-11.994,95.846,0.0094,0.48,0.607,0.0662,0.117,"['new wave pop', 'soft rock']",1987-10-30
+George Michael,Careless Whisper,,False,300106,80,0.574,-8.815,153.119,0.128,0.629,0.786,0.271,0.0363,"['new wave pop', 'soft rock']",1998-11-09
+George Michael,Don't Let the Sun Go Down on Me,,False,346960,59,0.432,-8.096,136.465,0.501,0.551,0.253,0.472,0.0289,"['new wave pop', 'soft rock']",1998-11-09
+George Michael,"Fastlove, Pt. 1",,False,324666,65,0.735,-7.522,104.444,0.052,0.64,0.551,0.345,0.072,"['new wave pop', 'soft rock']",1996-05-13
+George Michael,Freedom! '90 - Remastered,,False,390861,71,0.677,-10.856,91.691,0.225,0.852,0.93,0.0595,0.045,"['new wave pop', 'soft rock']",2017-10-20
+George Michael,Father Figure - Remastered,,False,336666,66,0.689,-13.288,101.988,0.163,0.333,0.284,0.0853,0.0262,"['new wave pop', 'soft rock']",1987-10-30
+Wham!,Club Tropicana,,False,265600,68,0.658,-9.247,117.276,0.0291,0.714,0.806,0.651,0.0521,"['dance pop', 'new wave pop']",1983-07-09
+Wham!,Wake Me Up Before You Go-Go,,False,231333,80,0.62,-11.893,81.548,0.271,0.573,0.897,0.0607,0.0423,"['dance pop', 'new wave pop']",1984-10-23
+Wham!,Everything She Wants,,False,302693,67,0.9,-15.557,115.091,0.321,0.459,0.962,0.165,0.0366,"['dance pop', 'new wave pop']",1984-10-23
+Paula Abdul,Straight Up,,False,251466,63,0.769,-8.252,95.862,0.267,0.826,0.762,0.0638,0.0624,"['dance pop', 'europop', 'new wave pop', 'pop rock', 'soft rock']",1988-01-01
+Paul Young,Every Time You Go Away - Radio Edit,,False,267000,72,0.572,-8.959,164.252,0.187,0.721,0.844,0.216,0.0402,"['album rock', 'art rock', 'classic uk pop', 'dance rock', 'disco']",1991-09-07
+Genesis,That's All - Remastered 2007,,False,266173,62,0.579,-8.704,175.181,0.253,0.669,0.798,0.0911,0.0326,"['album rock', 'art rock', 'classic rock', 'mellow gold', 'progressive rock']",1983-10-03
+Genesis,Land Of Confusion - Remastered 2007,,False,286320,64,0.619,-6.787,115.164,0.0173,0.939,0.677,0.327,0.0397,"['album rock', 'art rock', 'classic rock', 'mellow gold', 'progressive rock']",1986-06-09
+Genesis,Invisible Touch - Remastered 2007,,False,210133,68,0.623,-5.731,131.037,0.202,0.94,0.837,0.0472,0.0365,"['album rock', 'art rock', 'classic rock', 'mellow gold', 'progressive rock']",1986-06-09
+Genesis,I Can't Dance - Remastered 2007,,False,241360,65,0.916,-9.733,107.564,0.432,0.523,0.88,0.0488,0.0521,"['album rock', 'art rock', 'classic rock', 'mellow gold', 'progressive rock']",1991-11-11
+The Human League,Together In Electric Dreams,,False,233493,58,0.697,-11.746,129.96,0.18,0.611,0.808,0.0876,0.0258,"['art rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop']",1988
+Harold Faltermeyer,Axel F,,False,180866,60,0.799,-17.105,117.285,0.016,0.491,0.57,0.094,0.0891,"['german soundtrack', 'synthpop']",1988-01-01
+Erasure,A Little Respect - 2009 Remastered Version,,False,213986,46,0.607,-7.963,113.804,0.0299,0.784,0.622,0.288,0.0258,"['dance pop', 'dance rock', 'europop', 'new romantic', 'new wave']",1988-04-18
+Terence Trent D'Arby,Sign Your Name,,False,276533,62,0.899,-11.238,109.148,0.202,0.421,0.852,0.0864,0.0511,"['dance rock', 'new romantic', 'new wave', 'new wave pop']",1987-07-06
+Modern Talking,Cheri Cheri Lady,,False,226333,69,0.677,-13.826,114.223,0.458,0.616,0.851,0.349,0.032,"['eurodance', 'europop', 'german pop', 'synthpop']",1985
+Modern Talking,Brother Louie,,False,222666,70,0.783,-9.223,108.966,0.396,0.836,0.831,0.135,0.0486,"['eurodance', 'europop', 'german pop', 'synthpop']",1986
+Level 42,Something About You - Single Version,,False,223440,62,0.707,-13.52,105.326,0.0319,0.568,0.877,0.055,0.0291,"['art rock', 'brit funk', 'classic uk pop', 'dance rock', 'mellow gold']",1989-01-01
+Level 42,Lessons In Love,,False,246013,66,0.709,-8.403,113.186,0.159,0.839,0.864,0.301,0.0367,"['art rock', 'brit funk', 'classic uk pop', 'dance rock', 'mellow gold']",1987
+ABC,The Look Of Love - Pt. 1,,False,209160,63,0.731,-4.559,120.991,0.11,0.91,0.886,0.313,0.0918,"['art rock', 'classic uk pop', 'dance rock', 'new romantic', 'new wave']",1982-06-21
+Madonna,Like a Virgin,,False,218626,72,0.773,-10.88,119.754,0.202,0.656,0.971,0.0697,0.0381,"['dance pop', 'pop']",1984-11-12
+Madonna,Vogue,,False,316813,67,0.737,-6.449,115.998,0.00379,0.88,0.329,0.417,0.0433,"['dance pop', 'pop']",2009-09-18
+Madonna,4 Minutes (feat. Justin Timberlake & Timbaland),,False,189693,69,0.753,-4.922,113.029,0.00994,0.931,0.767,0.234,0.0652,"['dance pop', 'pop']",2009-09-18
+Baltimora,Tarzan Boy,,False,378946,69,0.684,-12.3,107.363,0.318,0.573,0.716,0.306,0.0261,"['italian disco', 'synthpop']",1985-01-01
+Roxette,The Look,,False,237320,6,0.634,-5.363,95.011,0.0531,0.838,0.541,0.0522,0.0413,"['dance pop', 'europop', 'new wave pop', 'pop rock', 'soft rock']",1988-10-19
+Roxette,Listen To Your Heart,,False,328093,74,0.539,-4.935,86.063,0.108,0.583,0.337,0.111,0.0275,"['dance pop', 'europop', 'new wave pop', 'pop rock', 'soft rock']",1988-10-21
+Roxette,"It Must Have Been Love - From the Film ""Pretty Woman""",,False,258786,76,0.52,-6.655,80.609,0.34,0.652,0.722,0.256,0.0274,"['dance pop', 'europop', 'new wave pop', 'pop rock', 'soft rock']",1990-05-20
+Roxette,Fading Like A Flower (Every Time You Leave),,False,230680,65,0.609,-5.738,105.419,0.195,0.668,0.319,0.219,0.026,"['dance pop', 'europop', 'new wave pop', 'pop rock', 'soft rock']",1991-04-02
+Roxette,Joyride,,False,263093,0,0.631,-5.315,102.348,0.0457,0.77,0.734,0.481,0.0267,"['dance pop', 'europop', 'new wave pop', 'pop rock', 'soft rock']",1991-03-28
+Marillion,Kayleigh - 2017 Remaster,,False,243560,63,0.585,-8.35,106.127,0.247,0.567,0.564,0.102,0.0263,"['album rock', 'art rock', 'classic rock', 'neo-progressive', 'progressive rock']",1985-06-17
+Murray Head,One Night In Bangkok - From “Chess” / Remastered 2016,,False,193440,62,0.954,-9.124,108.842,0.193,0.451,0.839,0.0637,0.108,['new wave pop'],2016-02-26
+Orchestral Manoeuvres In The Dark,Enola Gay - Remastered,,False,213693,68,0.559,-7.058,143.319,0.00441,0.764,0.932,0.0807,0.0348,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave']",1980-10-24
+Inner City,Good Life,,False,244773,60,0.716,-12.876,121.306,0.172,0.783,0.952,0.0327,0.0496,"['chicago house', 'deep house', 'detroit house', 'disco house', 'diva house']",1989
+Simply Red,Holding Back the Years - 2008 Remaster,,False,269840,70,0.707,-8.885,86.035,0.58,0.514,0.524,0.0953,0.0281,"['british soul', 'dance rock', 'mellow gold', 'new romantic', 'new wave pop']",1985
+Simply Red,Stars,,False,248599,71,0.716,-7.456,103.668,0.154,0.818,0.817,0.236,0.0256,"['british soul', 'dance rock', 'mellow gold', 'new romantic', 'new wave pop']",1991
+Wet Wet Wet,Angel Eyes (Home And Away),,False,316866,59,0.623,-12.221,94.153,0.366,0.529,0.57,0.0554,0.027,"['boy band', 'dance rock', 'europop', 'new romantic', 'new wave pop']",1987-01-01
+Wet Wet Wet,Sweet Little Mystery,,False,224933,60,0.711,-14.108,117.084,0.408,0.581,0.949,0.0709,0.0357,"['boy band', 'dance rock', 'europop', 'new romantic', 'new wave pop']",1987-01-01
+Technotronic,Pump Up The Jam,,False,320306,67,0.885,-9.225,124.602,0.0147,0.844,0.715,0.0494,0.0733,"['eurodance', 'europop', 'hip house', 'new beat']",1989
+Dolly Parton,Islands in the Stream,,False,250053,69,0.611,-8.256,203.787,0.68,0.524,0.73,0.0753,0.035,"['classic country pop', 'country', 'country dawn']",2016-08-19
+Fine Young Cannibals,Good Thing,,False,201866,64,0.747,-10.119,164.718,0.0708,0.586,0.893,0.0427,0.0299,"['art rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave']",1988-01-01
+Tears For Fears,Shout,,False,393666,72,0.511,-10.407,97.909,0.174,0.942,0.498,0.139,0.0429,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave']",1985-02-25
+Tears For Fears,Everybody Wants To Rule The World,,False,251488,83,0.645,-12.095,112.067,0.347,0.795,0.535,0.104,0.0527,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'permanent wave']",1985-02-25
+Michael Bolton,How Am I Supposed to Live Without You,,False,255666,71,0.541,-12.206,140.273,0.191,0.44,0.232,0.114,0.031,"['adult standards', 'soft rock']",1989-06-27
+Michael Bolton,When a Man Loves a Woman,,False,231066,69,0.476,-10.706,164.555,0.2,0.363,0.243,0.055,0.0296,"['adult standards', 'soft rock']",1991-04-23
+Sandra,(I'll Never Be) Maria Magdalena - Single Verison,,False,239826,64,0.613,-14.127,104.1,0.0992,0.559,0.772,0.314,0.0268,"['eurodance', 'europop', 'italian disco', 'new romantic', 'new wave pop']",1987-01-01
+Cyndi Lauper,True Colors,,False,227600,71,0.397,-13.155,171.282,0.701,0.207,0.268,0.116,0.0331,"['dance pop', 'dance rock', 'europop', 'mellow gold', 'new wave pop']",1986-10-14
+Yazoo,Don't Go,,False,188466,65,0.803,-16.013,126.236,0.312,0.411,0.654,0.0411,0.0521,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'synthpop']",1982-07-01
+Yazoo,Only You,,False,194173,66,0.752,-17.063,106.158,0.332,0.307,0.854,0.0829,0.0398,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'synthpop']",1982-07-01
+Black,Wonderful Life,,False,287933,67,0.72,-12.468,106.055,0.705,0.521,0.823,0.214,0.0302,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'synthpop']",1987-01-01
+Sade,Smooth Operator - Single Version,,False,258693,24,0.734,-6.619,119.337,0.24,0.581,0.962,0.0298,0.032,"['british soul', 'neo soul', 'sophisti-pop']",1994-10-31
+Alice Cooper,Poison,,False,270080,73,0.28,-5.509,118.698,0.0327,0.908,0.26,0.18,0.109,"['album rock', 'blues rock', 'classic rock', 'glam metal', 'glam rock']",1989-07-25
+Robert Palmer,Addicted To Love,,False,363640,69,0.702,-13.415,111.617,0.382,0.578,0.975,0.0425,0.031,"['album rock', 'art rock', 'classic rock', 'classic uk pop', 'dance rock']",1985-01-01
+Alannah Myles,Black Velvet,,False,287440,72,0.754,-10.07,91.147,0.273,0.366,0.469,0.106,0.0312,"['classic canadian rock', 'new wave pop']",1989-03-14
+Backstreet Boys,I Want It That Way,,False,213600,77,0.689,-5.642,99.031,0.216,0.702,0.484,0.159,0.0261,"['boy band', 'dance pop', 'europop']",2001-10-23
+Natalie Imbruglia,Torn,,False,244813,71,0.559,-3.04,96.315,0.0746,0.928,0.599,0.696,0.0355,"['dance pop', 'europop', 'lilith', 'new wave pop', 'pop rock']",2007-09-05
+East 17,Stay Another Day,,False,267133,70,0.524,-7.828,127.768,0.578,0.489,0.443,0.186,0.0274,"['boy band', 'dance pop', 'eurodance', 'europop', 'hip house']",1994-01-01
+Oasis,Wonderwall,,False,258613,0,0.409,-4.373,174.426,0.000807,0.892,0.651,0.207,0.0336,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'rock']",2006-11-19
+Eagle-Eye Cherry,Save Tonight,,False,236040,55,0.548,-6.536,119.496,0.000154,0.742,0.583,0.109,0.0337,['pop rock'],1997-07-21
+Sinéad O'Connor,Nothing Compares 2 U,,False,280040,76,0.511,-7.016,119.917,0.0425,0.574,0.161,0.105,0.0273,"['folk', 'lilith', 'new wave pop', 'pop rock']",1990-07-01
+The Goo Goo Dolls,Iris,,False,289533,79,0.315,-8.072,155.925,0.00125,0.715,0.497,0.0942,0.0362,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",1998-09-11
+Deep Blue Something,Breakfast At Tiffany's,,False,257186,70,0.624,-5.534,110.368,0.113,0.826,0.526,0.0938,0.0287,['pop rock'],1995-01-01
+Ini Kamoze,Here Comes the Hotstepper - Heartical Mix,,False,250466,23,0.889,-8.598,100.36,0.0141,0.454,0.436,0.203,0.221,"['dub', 'reggae', 'reggae fusion', 'roots reggae']",1994
+Red Hot Chili Peppers,Under the Bridge,,False,264306,82,0.559,-13.496,84.581,0.0576,0.345,0.458,0.141,0.0459,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",1991-09-24
+Aerosmith,Cryin',,False,308333,73,0.445,-3.674,105.872,0.000202,0.856,0.486,0.367,0.0327,"['album rock', 'classic rock', 'hard rock', 'rock']",1993-01-01
+Aerosmith,Amazing,,False,356160,69,0.308,-5.434,139.454,0.0645,0.747,0.278,0.431,0.037,"['album rock', 'classic rock', 'hard rock', 'rock']",1993-01-01
+Spice Girls,Wannabe,,False,173026,80,0.768,-6.145,110.008,0.101,0.864,0.891,0.162,0.0324,"['dance pop', 'europop', 'girl group', 'pop']",1996-01-01
+Spice Girls,2 Become 1,,False,241026,68,0.646,-7.878,143.966,0.326,0.665,0.7,0.238,0.0268,"['dance pop', 'europop', 'girl group', 'pop']",1996-01-01
+Spice Girls,Stop,,False,204753,69,0.722,-4.446,130.13,0.287,0.845,0.965,0.0561,0.0308,"['dance pop', 'europop', 'girl group', 'pop']",1997-01-01
+The Cardigans,My Favourite Game,,False,217133,0,0.58,-7.085,143.475,0.000133,0.782,0.496,0.31,0.0338,"['dance pop', 'lilith', 'new wave pop', 'permanent wave', 'pop rock']",1998-10-01
+K-Ci & JoJo,All My Life,,False,331240,71,0.629,-8.651,128.038,0.114,0.511,0.181,0.0588,0.0326,"['dance pop', 'hip pop', 'new jack swing', 'quiet storm', 'r&b']",1997-01-01
+Lighthouse Family,High,,False,308333,70,0.662,-8.502,102.319,0.108,0.628,0.588,0.128,0.0251,"['europop', 'pop rock']",1997-01-01
+TLC,No Scrubs,,False,214400,79,0.743,-4.267,92.909,0.0251,0.675,0.59,0.0685,0.0953,"['atl hip hop', 'dance pop', 'girl group', 'hip hop', 'hip pop']",1999-02-23
+TLC,Waterfalls,,False,279506,72,0.77,-7.345,171.798,0.311,0.505,0.757,0.0777,0.0828,"['atl hip hop', 'dance pop', 'girl group', 'hip hop', 'hip pop']",1994-11-15
+TLC,Creep,,False,268533,68,0.811,-9.688,92.94,0.0193,0.458,0.797,0.0526,0.0402,"['atl hip hop', 'dance pop', 'girl group', 'hip hop', 'hip pop']",1994-11-15
+Wilson Phillips,Hold On,,False,266866,69,0.679,-9.897,97.8,0.4,0.657,0.546,0.0497,0.0255,"['girl group', 'new wave pop', 'pop rock', 'soft rock']",1990-01-01
+Boyzone,Picture Of You,,False,206040,65,0.768,-6.066,116.649,0.109,0.919,0.862,0.366,0.0416,"['boy band', 'bubblegum dance', 'dance pop', 'europop', 'pop rock']",1997-01-01
+B*Witched,C'est La Vie,,False,173693,62,0.705,-5.109,109.004,0.0978,0.936,0.939,0.0506,0.0306,"['bubblegum dance', 'dance pop', 'europop', 'girl group']",1998-03-25
+All Saints,Never Ever,,False,387573,61,0.738,-5.485,134.187,0.559,0.541,0.309,0.0492,0.0311,"['bubblegum dance', 'dance pop', 'europop', 'girl group', 'new wave pop']",1997
+All Saints,Pure Shores,,False,268746,64,0.631,-9.197,100.618,0.0498,0.664,0.407,0.0696,0.0242,"['bubblegum dance', 'dance pop', 'europop', 'girl group', 'new wave pop']",2000-08-16
+Robbie Williams,She's The One,,False,258026,69,0.243,-8.451,166.668,0.663,0.609,0.333,0.221,0.0323,"['dance pop', 'europop', 'pop']",1998
+Robbie Williams,Let Me Entertain You,,False,262000,68,0.478,-5.022,125.152,0.000169,0.965,0.347,0.0854,0.0642,"['dance pop', 'europop', 'pop']",1997-01-01
+Robbie Williams,Rock DJ,,False,258560,70,0.708,-4.264,103.035,0.0267,0.772,0.861,0.467,0.0322,"['dance pop', 'europop', 'pop']",2000-01-01
+Go West,The King of Wishful Thinking,,False,241760,64,0.669,-7.377,107.885,0.033,0.868,0.913,0.0991,0.0527,"['dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop']",1992-11-14
+Duran Duran,Ordinary World,,False,340200,74,0.472,-10.171,140.124,0.0131,0.652,0.401,0.14,0.0305,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock']",1993-02-15
+Nick Kamen,I Promised Myself,,False,240773,63,0.581,-12.282,128.179,0.00424,0.801,0.692,0.0326,0.0306,['italian disco'],1990
+S Club 7,Bring It All Back,,False,214400,64,0.679,-4.914,108.114,0.333,0.903,0.872,0.372,0.0463,"['bubblegum dance', 'dance pop', 'europop']",1999-01-01
+Meredith Brooks,Bitch,,False,252760,68,0.617,-5.953,96.328,0.0112,0.886,0.629,0.0523,0.055,"['lilith', 'pop rock']",1997-01-01
+Lisa Loeb & Nine Stories,Stay,,False,183760,61,0.676,-6.887,80.316,0.454,0.592,0.337,0.107,0.0452,"['lilith', 'pop rock']",1995-01-01
+Jewel,You Were Meant For Me,,False,254480,67,0.582,-7.928,111.873,0.791,0.33,0.407,0.105,0.0347,"['alaska indie', 'lilith', 'permanent wave', 'pop rock', 'singer-songwriter']",1995-02-28
+Smash Mouth,All Star,,False,200373,79,0.731,-5.881,104.019,0.0395,0.867,0.776,0.0861,0.032,"['alternative rock', 'pop rock']",1999-06-08
+Babyface,Every Time I Close My Eyes (with Kenny G),,False,296266,63,0.654,-7.699,143.676,0.0624,0.417,0.279,0.0963,0.025,"['dance pop', 'neo soul', 'new jack swing', 'quiet storm', 'r&b']",1996-10-29
+Robin S,Show Me Love,,False,252106,69,0.811,-4.259,120.258,0.014,0.833,0.567,0.0769,0.153,"['disco house', 'diva house', 'eurodance', 'hip house', 'vocal house']",1993-06-15
+Metallica,Nothing Else Matters,,False,388266,80,0.553,-11.218,142.352,0.0458,0.362,0.158,0.075,0.0263,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",1991-08-12
+Blackstreet,No Diggity,,False,304600,76,0.867,-4.674,88.634,0.303,0.646,0.67,0.279,0.288,"['boy band', 'dance pop', 'hip hop', 'hip pop', 'neo soul']",1996-09-09
+Céline Dion,The Power of Love,,False,342400,69,0.546,-9.072,140.054,0.36,0.519,0.247,0.24,0.0291,"['canadian pop', 'dance pop']",1993-11-09
+Céline Dion,"My Heart Will Go On - Love Theme from ""Titanic""",,False,280000,6,0.428,-11.729,99.195,0.732,0.276,0.0382,0.117,0.0312,"['canadian pop', 'dance pop']",1997-10-24
+Enrique Iglesias,Rhythm Divine,,False,209773,56,0.628,-2.713,101.999,0.13,0.971,0.443,0.0937,0.16,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop']",1999-01-01
+Enrique Iglesias,Could I Have This Kiss Forever,,False,235293,59,0.457,-5.926,93.664,0.00338,0.892,0.508,0.141,0.0986,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop']",1999-01-01
+Enrique Iglesias,Be With You,,False,219360,58,0.683,-5.436,121.996,0.0395,0.866,0.542,0.0483,0.0329,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'pop']",1999-01-01
+MC Hammer,U Can't Touch This,,False,257360,74,0.867,-13.222,133.148,0.00456,0.517,0.866,0.0864,0.0875,"['hip hop', 'hip house', 'new jack swing', 'rap']",1990-02-20
+Ms. Lauryn Hill,Doo Wop (That Thing),,False,320266,0,0.535,-8.926,99.935,0.0393,0.505,0.495,0.0923,0.245,"['conscious hip hop', 'dance pop', 'hip pop', 'neo soul', 'new jersey rap']",1998-08-25
+Boyz II Men,I'll Make Love To You,,False,236760,67,0.559,-8.06,142.447,0.103,0.49,0.202,0.099,0.0247,"['boy band', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",1994-08-30
+Boyz II Men,End Of The Road,,False,351466,71,0.64,-9.29,149.703,0.0664,0.427,0.529,0.0579,0.0241,"['boy band', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']",1991-04-30
+Diana King,Shy Guy,,False,258560,60,0.714,-5.447,94.074,0.0128,0.825,0.751,0.049,0.0751,['reggae fusion'],1995-04-14
+En Vogue,Don't Let Go (Love),,False,291880,63,0.618,-5.867,78.311,0.409,0.688,0.561,0.3,0.0477,"['dance pop', 'girl group', 'hip hop', 'hip pop', 'neo soul']",1997-06-17
+Savage Garden,Truly Madly Deeply,,False,277266,75,0.555,-8.874,168.12,0.403,0.698,0.816,0.0851,0.0287,"['australian pop', 'boy band', 'dance pop', 'europop', 'pop rock']",1997-03-04
+Brandy,The Boy Is Mine,,False,294786,68,0.704,-6.537,93.145,0.539,0.707,0.761,0.318,0.0391,"['dance pop', 'hip pop', 'neo soul', 'pop', 'pop r&b']",1998-05-29
+Jamiroquai,Virtual Insanity - Remastered,,False,340906,56,0.618,-6.475,91.972,0.171,0.893,0.515,0.285,0.109,"['dance pop', 'pop dance']",1996-09-09
+Mr. President,Coco Jamboo - Radio Version,,False,218733,0,0.832,-5.414,100.019,0.0791,0.838,0.965,0.152,0.0421,"['bubblegum dance', 'eurodance', 'europop', 'german techno', 'hip house']",1996
+No Doubt,Just A Girl,,False,208400,0,0.641,-4.798,107.996,0.0799,0.914,0.723,0.132,0.05,"['alternative rock', 'dance pop', 'permanent wave', 'pop rock']",1995-10-10
+Mariah Carey,One Sweet Day,,False,281066,69,0.568,-8.964,128.234,0.353,0.495,0.303,0.0839,0.0299,"['dance pop', 'pop', 'r&b', 'urban contemporary']",1995-09-26
+R.E.M.,Everybody Hurts,,False,318240,0,0.254,-8.036,188.2,0.614,0.383,0.178,0.172,0.0282,"['alternative rock', 'classic rock', 'permanent wave', 'pop rock', 'rock']",1992-10-05
+Ricky Martin,Livin' la Vida Loca,,False,243160,73,0.425,-3.756,178.043,0.00411,0.954,0.933,0.0555,0.0476,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'puerto rican pop']",1999
+Seal,Crazy,,False,268040,56,0.633,-6.744,102.871,0.408,0.846,0.899,0.11,0.0426,"['british soul', 'soft rock']",1991-06-11
+Santana,Smooth,,False,294986,0,0.609,-3.908,115.996,0.16,0.923,0.961,0.295,0.0338,"['blues rock', 'classic rock', 'mexican classic rock', 'rock']",1999
+Shania Twain,Man! I Feel Like A Woman!,,False,233000,57,0.664,-3.058,124.986,0.641,0.889,0.729,0.298,0.0468,"['canadian country', 'canadian pop', 'country', 'country dawn', 'dance pop']",1999-11-09
+Shania Twain,You're Still The One,,False,212200,75,0.585,-8.751,133.822,0.363,0.494,0.634,0.0886,0.0353,"['canadian country', 'canadian pop', 'country', 'country dawn', 'dance pop']",1997-11-04
+Tom Jones,Sexbomb,,False,211893,0,0.801,-3.94,122.98,0.144,0.876,0.932,0.104,0.0446,"['adult standards', 'british invasion', 'lounge', 'mellow gold']",1999
+Spin Doctors,Two Princes,,False,256733,71,0.543,-10.71,103.731,0.00162,0.912,0.836,0.0565,0.0601,"['alternative rock', 'pop rock', 'rock']",1991-08-27
+Take That,How Deep Is Your Love,,False,221000,0,0.786,-14.285,99.992,0.672,0.376,0.437,0.186,0.0273,"['boy band', 'dance pop', 'europop', 'hollywood']",1996-03-25
+Toni Braxton,Un-Break My Heart,,False,270333,68,0.625,-8.392,110.018,0.413,0.426,0.112,0.116,0.0271,"['dance pop', 'hip pop', 'neo soul', 'new jack swing', 'quiet storm']",1996-04-24
+Big Mountain,"Baby, I Love Your Way",,False,249520,61,0.651,-7.269,147.518,0.0528,0.747,0.776,0.207,0.0699,"['reggae', 'reggae fusion']",1994-07-19
+Will Smith,"Men In Black - From ""Men In Black"" Soundtrack",,False,227266,64,0.801,-8.491,107.545,0.0968,0.581,0.656,0.0971,0.0681,"['hip hop', 'pop rap']",1997-10-03
+Will Smith,Gettin' Jiggy Wit It,,False,227933,71,0.881,-4.505,107.891,0.0175,0.874,0.858,0.154,0.139,"['hip hop', 'pop rap']",1997-10-03
+Will Smith,Miami,,False,197560,70,0.877,-6.178,108.17,0.0339,0.534,0.89,0.0441,0.15,"['hip hop', 'pop rap']",1997-10-03
+Destiny's Child,Say My Name,,False,271333,65,0.522,-3.571,67.427,0.274,0.676,0.746,0.134,0.16,"['dance pop', 'girl group', 'hip pop', 'pop', 'r&b']",1999-09-07
+Destiny's Child,Survivor,,False,254026,71,0.514,-2.027,161.109,0.0559,0.911,0.619,0.775,0.41,"['dance pop', 'girl group', 'hip pop', 'pop', 'r&b']",2001-05-01
+Destiny's Child,Bootylicious,,False,207354,60,0.835,-4.364,103.358,0.00247,0.833,0.586,0.171,0.284,"['dance pop', 'girl group', 'hip pop', 'pop', 'r&b']",2001-01-01
+Eros Ramazzotti,Più bella cosa,,False,265026,61,0.691,-6.82,110.008,0.0524,0.76,0.639,0.217,0.0262,"['italian adult pop', 'mexican pop']",1996-04-30
+Eros Ramazzotti,Cose della vita,,False,288893,53,0.502,-9.496,176.199,0.0634,0.603,0.474,0.224,0.0311,"['italian adult pop', 'mexican pop']",1993-04-19
+Faith No More,Easy,,False,186960,58,0.506,-6.743,124.724,0.339,0.554,0.375,0.112,0.0339,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'hard rock']",1992-06-08
+Hanson,MMMBop,,False,267946,0,0.685,-5.182,104.881,0.00513,0.948,0.628,0.17,0.0457,"['boy band', 'dance pop', 'neo mellow', 'pop rock']",2005-01-01
+Guns N' Roses,November Rain,,False,536066,81,0.294,-9.316,79.759,0.0163,0.641,0.226,0.112,0.0291,"['glam metal', 'hard rock', 'rock']",1991-09-17
+Dido,Thank You,,False,218360,71,0.725,-9.942,79.984,0.3,0.583,0.765,0.0665,0.0424,"['dance pop', 'new wave pop', 'pop rock']",1999
+Dido,White Flag,,False,240040,70,0.509,-6.834,170.037,0.344,0.537,0.315,0.0805,0.0383,"['dance pop', 'new wave pop', 'pop rock']",2003
+Maroon 5,This Love,,False,206200,2,0.714,-4.596,95.05,0.0551,0.868,0.78,0.0987,0.0363,"['pop', 'pop rock']",2002-06-25
+Maroon 5,She Will Be Loved,,False,257133,1,0.524,-5.494,203.867,0.0567,0.711,0.539,0.134,0.0405,"['pop', 'pop rock']",2002-06-25
+Daniel Bedingfield,If You're Not The One,,False,257026,61,0.688,-7.608,119.998,0.504,0.538,0.27,0.111,0.0292,"['dance pop', 'europop']",2002
+Lady Gaga,Just Dance,,False,244440,65,0.821,-4.57,118.984,0.0278,0.741,0.741,0.19,0.0313,"['dance pop', 'pop', 'pop dance']",2008-01-01
+Lady Gaga,Poker Face,,False,237200,0,0.851,-4.618,119.002,0.12,0.806,0.775,0.122,0.0788,"['dance pop', 'pop', 'pop dance']",2009-01-01
+Lady Gaga,Shallow - Radio Edit,,False,217212,79,0.575,-6.557,95.801,0.416,0.33,0.277,0.0872,0.031,"['dance pop', 'pop', 'pop dance']",2018-10-05
+Sugababes,About You Now,,False,212400,67,0.584,-6.065,82.499,6.52e-05,0.699,0.585,0.486,0.0378,"['bubblegum dance', 'dance pop', 'europop', 'girl group', 'pop']",2007-01-01
+Sugababes,Push The Button,,False,218093,65,0.962,-5.096,126.016,0.0485,0.66,0.814,0.076,0.061,"['bubblegum dance', 'dance pop', 'europop', 'girl group', 'pop']",2005
+Shakira,Hips Don't Lie (feat. Wyclef Jean),,False,218093,83,0.778,-5.892,100.024,0.284,0.824,0.756,0.405,0.0712,"['colombian pop', 'dance pop', 'latin', 'latin pop', 'pop']",2005-11-28
+Usher,Yeah!,,False,250066,1,0.895,-4.693,105.004,0.0219,0.795,0.574,0.0403,0.0977,"['atl hip hop', 'dance pop', 'pop', 'r&b', 'south carolina hip hop']",2004-02-09
+Usher,U Remind Me,,False,266893,73,0.657,-4.938,93.985,0.194,0.629,0.726,0.254,0.0782,"['atl hip hop', 'dance pop', 'pop', 'r&b', 'south carolina hip hop']",2001-08-07
+Rihanna,Pon de Replay,,False,246960,79,0.779,-8.415,99.019,0.000155,0.64,0.498,0.101,0.159,"['barbadian pop', 'dance pop', 'pop', 'pop dance', 'pop rap']",2005-08-29
+Rihanna,Don't Stop The Music,,False,267080,78,0.835,-5.582,122.668,0.0336,0.669,0.542,0.0535,0.0643,"['barbadian pop', 'dance pop', 'pop', 'pop dance', 'pop rap']",2008-06-02
+Rihanna,Umbrella,,False,275986,83,0.583,-4.603,174.028,0.00864,0.829,0.575,0.0426,0.134,"['barbadian pop', 'dance pop', 'pop', 'pop dance', 'pop rap']",2008-06-02
+Black Eyed Peas,I Gotta Feeling,,False,289133,73,0.743,-6.375,127.96,0.0873,0.766,0.61,0.509,0.0265,"['dance pop', 'pop', 'pop dance', 'pop rap']",2009-01-01
+Black Eyed Peas,Where Is The Love?,,False,272533,0,0.835,-3.18,94.059,0.101,0.687,0.828,0.132,0.184,"['dance pop', 'pop', 'pop dance', 'pop rap']",2003-01-01
+Gabrielle,Out Of Reach,,False,196986,69,0.51,-6.567,182.862,0.503,0.48,0.496,0.106,0.0452,"['british soul', 'dance pop', 'europop', 'neo soul', 'new wave pop']",2001-01-01
+Kings of Leon,Sex on Fire,,False,204586,0,0.544,-5.651,153.629,0.00166,0.903,0.432,0.1,0.0545,"['modern rock', 'rock']",2008-08-11
+James Morrison,You Give Me Something,,False,213173,67,0.559,-6.496,79.753,0.216,0.688,0.578,0.0855,0.114,"['neo mellow', 'neo soul', 'pop', 'pop rock']",2006-01-01
+James Morrison,Broken Strings,,False,250453,72,0.57,-4.914,111.91,0.00967,0.717,0.321,0.0833,0.029,"['neo mellow', 'neo soul', 'pop', 'pop rock']",2008-01-01
+Britney Spears,Oops!...I Did It Again,,False,211160,79,0.751,-5.444,95.053,0.3,0.834,0.894,0.355,0.0437,"['dance pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop']",2000-05-16
+Britney Spears,I'm a Slave 4 U,,False,203600,70,0.847,-3.579,110.027,0.415,0.843,0.963,0.107,0.106,"['dance pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop']",2001-10-31
+Aly & AJ,Potential Breakup Song,,False,219773,76,0.572,-4.139,158.038,0.00082,0.89,0.765,0.564,0.039,"['dance pop', 'electropop', 'girl group', 'indie poptimism', 'neo mellow']",2007-01-01
+Coldplay,Viva La Vida,,False,242373,80,0.486,-7.115,138.015,0.0954,0.617,0.417,0.109,0.0287,"['permanent wave', 'pop']",2008-05-26
+Coldplay,Yellow,,False,266773,86,0.429,-7.227,173.372,0.00239,0.661,0.285,0.234,0.0281,"['permanent wave', 'pop']",2000-07-10
+Coldplay,Clocks,,False,307879,78,0.577,-7.215,130.97,0.599,0.749,0.255,0.183,0.0279,"['permanent wave', 'pop']",2002-08-08
+Coldplay,The Scientist,,False,309600,85,0.557,-7.224,146.277,0.731,0.442,0.213,0.11,0.0243,"['permanent wave', 'pop']",2002-08-08
+Coldplay,A Sky Full of Stars,,False,267866,79,0.545,-6.474,124.97,0.00617,0.675,0.162,0.209,0.0279,"['permanent wave', 'pop']",2014-05-19
+Katy Perry,I Kissed A Girl,,False,179640,73,0.699,-3.173,129.996,0.00223,0.76,0.696,0.132,0.0677,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",2008-06-17
+Katy Perry,Roar,,False,223546,75,0.554,-4.821,179.984,0.00487,0.772,0.455,0.354,0.0418,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",2013-10-18
+James Blunt,Goodbye My Lover,,False,258653,69,0.432,-12.591,89.567,0.953,0.261,0.273,0.0903,0.0512,"['neo mellow', 'pop', 'pop rock']",2005-08-08
+James Blunt,You're Beautiful,,True,209493,77,0.675,-9.87,81.998,0.633,0.479,0.454,0.088,0.0278,"['neo mellow', 'pop', 'pop rock']",2005-08-08
+Gwen Stefani,Hollaback Girl,,True,199853,71,0.926,-2.221,110.007,0.35,0.916,0.904,0.0234,0.0929,"['dance pop', 'europop', 'hip pop', 'pop', 'pop dance']",2004-11-22
+The Corrs,Breathless,,False,207506,69,0.607,-7.754,126.988,0.0541,0.82,0.768,0.269,0.0597,"['bow pop', 'celtic rock', 'dance pop', 'europop', 'new wave pop']",2000-01-01
+Sara Bareilles,Love Song,,False,258826,75,0.583,-3.142,123.055,0.0208,0.786,0.573,0.188,0.0301,"['acoustic pop', 'lilith', 'neo mellow', 'pop', 'pop rock']",2007-07-03
+Amy Winehouse,Back To Black,,True,240440,72,0.49,-3.304,123.28,0.123,0.725,0.335,0.0983,0.0392,"['british soul', 'neo soul']",2006-10-27
+Amy Winehouse,Rehab,,False,213760,69,0.434,-2.974,71.515,0.0473,0.872,0.732,0.396,0.0702,"['british soul', 'neo soul']",2006-10-27
+Amy Winehouse,Love Is A Losing Game,,False,155413,66,0.484,-16.544,165.008,0.337,0.293,0.562,0.146,0.0311,"['british soul', 'neo soul']",2006
+Duffy,Mercy,,False,219920,69,0.793,-3.774,129.911,0.266,0.859,0.964,0.133,0.0332,"['british soul', 'dance pop']",2008
+Duffy,Warwick Avenue,,False,226386,66,0.493,-5.814,169.908,0.339,0.59,0.502,0.121,0.0392,"['british soul', 'dance pop']",2008
+Westlife,World of Our Own,,False,211413,67,0.707,-4.635,97.003,0.0163,0.761,0.923,0.0627,0.0341,"['boy band', 'dance pop', 'europop']",2001-11-12
+Michelle Branch,Everywhere,,False,214826,65,0.523,-4.696,96.952,0.0136,0.828,0.476,0.165,0.0762,"['candy pop', 'dance pop', 'lilith', 'neo mellow', 'pop rock']",2001-07-31
+Iyaz,Replay,,False,182306,78,0.706,-6.323,91.031,0.173,0.751,0.195,0.168,0.0708,"['dance pop', 'pop rap', 'post-teen pop']",2009-08-18
+Crazy Town,Butterfly,,False,216733,72,0.736,-4.17,103.502,0.00132,0.811,0.609,0.107,0.081,"['alternative metal', 'funk metal', 'nu metal', 'rap rock']",1999-11-04
+Lonestar,Amazed,,False,240866,68,0.561,-8.498,139.803,0.26,0.543,0.243,0.124,0.0324,"['contemporary country', 'country', 'country road']",1999
+Muse,Starlight,,False,240213,74,0.55,-4.046,121.61,0.000436,0.874,0.318,0.206,0.0321,"['modern rock', 'permanent wave', 'rock']",2006-06-19
+Franz Ferdinand,Take Me Out,,False,237026,71,0.277,-8.821,104.561,0.000409,0.663,0.527,0.136,0.0377,"['alternative rock', 'dance-punk', 'indie rock', 'modern rock', 'new rave']",2004-02-16
+Florence + The Machine,Cosmic Love,,False,255906,63,0.518,-5.451,140.065,0.137,0.809,0.0957,0.119,0.0382,"['baroque pop', 'pop', 'uk alternative pop']",2009
+Florence + The Machine,Dog Days Are Over,,False,252818,74,0.501,-5.264,149.964,0.0338,0.809,0.258,0.119,0.0938,"['baroque pop', 'pop', 'uk alternative pop']",2009
+Foo Fighters,All My Life,,False,263440,73,0.577,-5.703,167.719,0.000218,0.604,0.637,0.477,0.0495,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge']",2002-10-22
+Foo Fighters,Best of You,,False,255626,76,0.366,-5.119,130.198,0.000769,0.94,0.369,0.188,0.0696,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge']",2005-06-14
+John Mayer,Your Body Is a Wonderland,,False,249626,77,0.647,-6.251,94.01,0.0206,0.729,0.687,0.134,0.0236,"['neo mellow', 'pop', 'pop rock', 'singer-songwriter']",2001-08-16
+3 Doors Down,Here Without You,,False,237075,0,0.555,-6.785,143.989,0.0465,0.537,0.238,0.246,0.0253,"['alternative metal', 'nu metal', 'pop rock', 'post-grunge']",2003-01-01
+Kanye West,Gold Digger,,True,207626,78,0.629,-5.572,93.034,0.0195,0.696,0.623,0.0554,0.348,"['chicago rap', 'rap']",2005-08-30
+Eve,Let Me Blow Ya Mind,,True,230106,56,0.905,-4.354,90.026,0.258,0.544,0.882,0.0618,0.117,"['dance pop', 'hip hop', 'hip pop', 'philly rap', 'pop rap']",2001-01-01
+Beyoncé,Crazy in Love (feat. Jay-Z),,False,249106,54,0.646,-7.063,99.259,0.000553,0.72,0.64,0.0556,0.206,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'r&b']",2003-06-30
+Beyoncé,Irreplaceable,,False,227853,73,0.447,-4.637,175.868,0.0293,0.694,0.509,0.167,0.382,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'r&b']",2007-05-29
+Beyoncé,Single Ladies (Put a Ring on It),,False,193213,69,0.426,-5.293,193.437,0.0383,0.584,0.272,0.188,0.296,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'r&b']",2008-11-17
+Beyoncé,Halo,,False,261640,78,0.508,-5.908,79.983,0.272,0.72,0.472,0.0563,0.0628,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'r&b']",2008-11-17
+Adele,Make You Feel My Love,,False,212040,70,0.559,-10.636,77.025,0.907,0.172,0.0955,0.105,0.0291,"['british soul', 'pop', 'pop soul', 'uk pop']",2008-01-28
+Adele,Chasing Pavements,,False,210506,61,0.614,-6.09,80.045,0.291,0.47,0.329,0.111,0.0255,"['british soul', 'pop', 'pop soul', 'uk pop']",2008-01-28
+Justin Timberlake,SexyBack (feat. Timbaland),,True,242733,78,0.967,-5.562,117.0,0.0584,0.583,0.964,0.0519,0.0789,"['dance pop', 'pop']",2006-09-12
+Justin Timberlake,Rock Your Body,,False,267266,73,0.891,-6.055,100.972,0.202,0.714,0.818,0.0521,0.14,"['dance pop', 'pop']",2002-11-04
+Justin Timberlake,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",,False,236001,78,0.667,-5.715,113.03,0.0123,0.83,0.701,0.191,0.0749,"['dance pop', 'pop']",2016-05-06
+Eminem,"Lose Yourself - From ""8 Mile"" Soundtrack",,True,326466,3,0.701,-4.554,171.388,0.00971,0.728,0.0591,0.361,0.255,"['detroit hip hop', 'hip hop', 'rap']",2005-12-06
+50 Cent,In Da Club,,True,193466,0,0.901,-2.826,90.059,0.262,0.72,0.795,0.0766,0.36,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'queens hip hop']",2009-11-03
+Gnarls Barkley,Crazy,,False,177466,77,0.855,-4.589,111.97,0.0505,0.587,0.64,0.105,0.0336,"['atl hip hop', 'neo soul']",2006-04-24
+Miley Cyrus,Party In The U.S.A.,,False,202066,80,0.652,-4.667,96.021,0.00112,0.698,0.47,0.0886,0.042,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",2009-01-01
+Outkast,Hey Ya! - Radio Mix / Club Mix,,False,235213,2,0.719,-2.435,79.505,0.0588,0.967,0.964,0.206,0.0552,"['atl hip hop', 'dirty south rap', 'hip hop', 'rap', 'southern hip hop']",2003-09-23
+The Pussycat Dolls,Don't Cha,,False,272080,0,0.875,-3.475,120.002,0.00542,0.631,0.549,0.127,0.099,"['dance pop', 'girl group', 'pop', 'pop dance', 'pop rap']",2005-01-01
+Wyclef Jean,911 (feat. Mary J. Blige),,False,259346,56,0.72,-9.162,87.024,0.243,0.666,0.707,0.0872,0.227,['rap kreyol'],2000-05-01
+Blu Cantrell,Hit 'Em up Style (Oops!),,False,250493,54,0.698,-5.319,90.116,0.173,0.722,0.67,0.289,0.0799,"['hip pop', 'r&b', 'urban contemporary']",2003-06-11
+Jason Mraz,I'm Yours,,False,243494,62,0.689,-9.394,151.079,0.564,0.432,0.747,0.0928,0.0452,"['acoustic pop', 'neo mellow', 'pop', 'pop rock']",2008-02-12
+Jordin Sparks,No Air (feat. Chris Brown),,False,264373,74,0.466,-4.978,160.033,0.0521,0.759,0.328,0.0587,0.199,"['dance pop', 'pop', 'pop dance', 'pop rap', 'pop rock']",2007-11-20
+OneRepublic,Apologize,,False,184826,0,0.657,-6.005,118.022,0.0252,0.588,0.105,0.087,0.0272,"['dance pop', 'neo mellow', 'piano rock', 'pop', 'pop rock']",2007-01-01
+Nelly,Dilemma,,True,289160,78,0.727,-8.074,168.189,0.227,0.552,0.607,0.198,0.14,"['dance pop', 'hip hop', 'pop rap', 'rap', 'southern hip hop']",2002-06-25
+Electronic Beats,Young Folks,,False,278719,0,0.672,-4.915,138.153,0.0128,0.857,0.685,0.16,0.038,[],2007-10-19
+*NSYNC,Bye Bye Bye,,False,199640,57,0.571,-3.877,172.716,0.0198,0.87,0.813,0.0564,0.0641,"['boy band', 'dance pop', 'europop', 'pop']",2005-10-21
+Cascada,Every time we touch,,False,197124,0,0.633,-5.362,142.027,0.00281,0.976,0.493,0.382,0.0519,"['bubblegum dance', 'dance pop', 'eurodance', 'europop', 'german techno']",2006
+Snoop Dogg,Drop It Like It's Hot,,True,266066,0,0.892,-3.832,92.063,0.169,0.628,0.676,0.102,0.216,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap']",2004-01-01
+John Legend,Ordinary People,,False,281466,0,0.469,-14.001,67.011,0.929,0.132,0.36,0.0873,0.0807,"['neo soul', 'pop', 'pop soul', 'r&b', 'urban contemporary']",2004
+John Legend,All of Me,,False,269560,87,0.422,-7.064,119.93,0.922,0.264,0.331,0.132,0.0322,"['neo soul', 'pop', 'pop soul', 'r&b', 'urban contemporary']",2013-08-30
+Daft Punk,One More Time - Radio Edit [Short Radio Edit],,False,235466,62,0.648,-8.49,122.891,0.0348,0.671,0.533,0.376,0.104,"['electro', 'filter house']",2006-03-31
+MGMT,Kids,,False,302840,79,0.451,-3.871,122.961,0.00076,0.931,0.172,0.361,0.0719,"['alternative dance', 'indie rock', 'indietronica', 'modern rock', 'rock']",2007-12-14
+Natasha Bedingfield,Unwritten,,False,259333,76,0.706,-6.333,100.013,0.00577,0.801,0.63,0.0822,0.0399,"['dance pop', 'europop', 'neo mellow', 'pop', 'pop rap']",2004-08-30
+Avril Lavigne,Complicated,,False,244506,0,0.582,-5.951,77.982,0.0615,0.758,0.413,0.309,0.0464,"['canadian pop', 'candy pop', 'dance pop', 'pop', 'post-teen pop']",2002-06-14
+Shaggy,It Wasn't Me,,False,227546,66,0.852,-4.569,94.762,0.0503,0.604,0.667,0.327,0.0642,"['dance pop', 'pop rap', 'reggae fusion']",2008-01-01
+Kelly Clarkson,Since U Been Gone,,False,188960,58,0.664,-5.391,131.006,0.00169,0.741,0.409,0.113,0.0343,"['dance pop', 'neo mellow', 'pop', 'pop dance', 'pop rock']",2005-01-01
+Kelly Clarkson,Because of You,,False,220373,60,0.583,-5.395,139.82,0.243,0.58,0.119,0.198,0.0319,"['dance pop', 'neo mellow', 'pop', 'pop dance', 'pop rock']",2012-11-16
+Ciara,"One, Two Step (feat. Missy Elliott)",,False,203786,75,0.944,-10.96,113.046,0.042,0.511,0.842,0.0379,0.161,"['dance pop', 'hip pop', 'pop', 'post-teen pop', 'r&b']",2004-09-27
+Taylor Swift,Love Story,,False,235266,72,0.618,-3.95,118.984,0.17,0.741,0.296,0.0822,0.031,['pop'],2008-11-11
+Bruno Mars,Marry You,,False,230120,75,0.62,-4.848,144.926,0.332,0.832,0.481,0.104,0.036,"['dance pop', 'pop']",2010-10-05
+Christina Aguilera,Beautiful,,False,238560,73,0.456,-3.866,76.19,0.578,0.573,0.0992,0.114,0.0275,"['dance pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop']",2002-07-19
+Ed Sheeran,Thinking out Loud,,False,281560,68,0.781,-6.061,78.998,0.474,0.445,0.591,0.184,0.0295,"['pop', 'uk pop']",2013
+Ed Sheeran,Beautiful People (feat. Khalid),,False,197866,83,0.64,-8.113,92.977,0.124,0.648,0.548,0.0802,0.187,"['pop', 'uk pop']",2019-06-28
+Ed Sheeran,Perfect Duet (Ed Sheeran & Beyoncé),,False,259550,76,0.587,-7.365,94.992,0.779,0.299,0.356,0.123,0.0263,"['pop', 'uk pop']",2017-11-30
+Ed Sheeran,Perfect,,False,263400,87,0.599,-6.312,95.05,0.163,0.448,0.168,0.106,0.0232,"['pop', 'uk pop']",2017-03-03
+Ed Sheeran,Shape of You,,False,233712,86,0.825,-3.183,95.977,0.581,0.652,0.931,0.0931,0.0802,"['pop', 'uk pop']",2017-03-03
+Ed Sheeran,Happier,,False,207520,83,0.522,-7.355,89.792,0.536,0.385,0.236,0.135,0.0288,"['pop', 'uk pop']",2017-03-03
+Justin Bieber,Sorry,,False,200786,0,0.665,-3.694,99.992,0.0767,0.759,0.389,0.313,0.0399,"['canadian pop', 'pop', 'post-teen pop']",2015-10-23
+The Wanted,Glad You Came,,False,197935,75,0.722,-3.873,126.885,0.0319,0.851,0.452,0.108,0.0639,"['boy band', 'dance pop', 'pop', 'pop dance', 'pop rock']",2011-01-01
+Shawn Mendes,Señorita,,False,190799,83,0.759,-6.049,116.967,0.0392,0.548,0.749,0.0828,0.029,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",2019-06-19
+Shawn Mendes,Treat You Better,,False,187973,83,0.444,-4.078,82.695,0.106,0.819,0.747,0.107,0.341,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",2017-04-20
+Shawn Mendes,Mercy,,False,208733,80,0.555,-4.952,148.128,0.125,0.662,0.356,0.111,0.0827,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",2017-04-20
+Shawn Mendes,Stitches,,False,206880,78,0.746,-6.684,149.882,0.0152,0.754,0.746,0.0486,0.0676,"['canadian pop', 'dance pop', 'pop', 'post-teen pop', 'viral pop']",2015-04-14
+Echosmith,Cool Kids,,False,237626,72,0.719,-6.279,130.027,0.0372,0.671,0.786,0.12,0.0336,"['dance pop', 'electropop', 'indie poptimism', 'pop rock']",2013-10-04
+Avicii,Wake Me Up - Radio Edit,,False,247426,3,0.532,-5.697,124.08,0.0038,0.783,0.643,0.161,0.0523,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",2013-01-01
+Avicii,SOS,,False,157202,67,0.802,-6.181,100.001,0.272,0.645,0.376,0.119,0.0715,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",2019-04-10
+Tove Lo,Talking Body,,True,238426,69,0.736,-5.449,119.999,0.0966,0.761,0.114,0.0823,0.0338,"['dance pop', 'electropop', 'metropopolis', 'pop', 'pop dance']",2014-09-24
+Tove Lo,Habits (Stay High),,False,209160,71,0.733,-3.539,110.003,0.0703,0.65,0.348,0.0829,0.0315,"['dance pop', 'electropop', 'metropopolis', 'pop', 'pop dance']",2014-09-24
+MKTO,Classic,,False,175426,81,0.72,-4.689,102.071,0.0384,0.791,0.756,0.157,0.124,"['dance pop', 'electropop', 'pop', 'pop rap', 'pop rock']",2012
+Ava Max,Sweet but Psycho,,False,187436,54,0.719,-4.724,133.002,0.0691,0.704,0.628,0.166,0.0476,"['dance pop', 'pop']",2018-08-17
+Travis Scott,SICKO MODE,,True,312820,88,0.834,-3.714,155.008,0.00513,0.73,0.446,0.124,0.222,['rap'],2018-08-03
+Mabel,Don't Call Me Up,,False,178480,82,0.674,-2.853,98.994,0.296,0.881,0.234,0.0793,0.147,"['dance pop', 'pop', 'pop dance', 'post-teen pop', 'tropical house']",2019-01-18
+Tones And I,Dance Monkey,,False,209438,90,0.824,-6.4,98.027,0.692,0.588,0.513,0.149,0.0924,['australian pop'],2019-10-17
+Sam Smith,How Do You Sleep?,,False,202204,82,0.477,-4.931,110.567,0.153,0.682,0.345,0.0763,0.0925,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",2019-07-19
+Sam Smith,Dancing With A Stranger (with Normani),,False,171029,83,0.741,-7.513,102.998,0.45,0.52,0.347,0.222,0.0656,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",2019-01-11
+Sam Smith,Too Good At Goodbyes,,False,201000,82,0.681,-8.237,91.873,0.64,0.372,0.476,0.169,0.0432,"['dance pop', 'pop', 'post-teen pop', 'uk pop']",2017-11-03
+Stormzy,Vossi Bop,,True,196266,71,0.682,-6.062,188.115,0.13,0.653,0.428,0.129,0.339,"['grime', 'uk hip hop']",2019-04-26
+Panic! At The Disco,High Hopes,,False,190946,84,0.579,-2.729,82.014,0.193,0.904,0.681,0.064,0.0618,"['baroque pop', 'emo', 'modern rock']",2018-06-22
+Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,,False,157560,83,0.755,-4.368,89.96,0.533,0.522,0.925,0.0685,0.0575,"['dfw rap', 'melodic rap', 'rap']",2019-09-06
+Post Malone,rockstar (feat. 21 Savage),,True,218146,86,0.585,-6.136,159.801,0.124,0.52,0.129,0.131,0.0712,"['dfw rap', 'melodic rap', 'rap']",2018-04-27
+Post Malone,Psycho (feat. Ty Dolla $ign),,True,221440,81,0.75,-8.094,140.06,0.546,0.56,0.459,0.111,0.105,"['dfw rap', 'melodic rap', 'rap']",2018-04-27
+Ariana Grande,7 rings,,True,178626,87,0.778,-10.732,140.048,0.592,0.317,0.327,0.0881,0.334,"['pop', 'post-teen pop']",2019-02-08
+Ariana Grande,"thank u, next",,True,207320,85,0.717,-5.634,106.966,0.229,0.653,0.412,0.101,0.0658,"['pop', 'post-teen pop']",2019-02-08
+Ariana Grande,God is a woman,,True,197546,81,0.602,-5.934,145.031,0.0233,0.658,0.268,0.237,0.0558,"['pop', 'post-teen pop']",2018-08-17
+Ariana Grande,Into You,,False,244453,76,0.623,-5.948,107.853,0.0162,0.734,0.37,0.145,0.107,"['pop', 'post-teen pop']",2016-05-20
+Halsey,Without Me,,True,201660,83,0.752,-7.05,136.041,0.297,0.488,0.533,0.0936,0.0705,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",2018-10-04
+Selena Gomez,Wolves,,False,197993,81,0.724,-4.614,124.987,0.124,0.804,0.306,0.204,0.0448,"['dance pop', 'pop', 'pop dance', 'post-teen pop']",2017-10-25
+Dennis Lloyd,Nevermind,,False,156600,78,0.6,-8.339,99.977,0.159,0.688,0.0793,0.409,0.201,['israeli pop'],2017-06-30
+Sam Feldt,Post Malone (feat. RANI),,False,174444,78,0.59,-3.87,107.356,0.0771,0.642,0.651,0.105,0.122,"['dance pop', 'edm', 'electro house', 'pop', 'pop dance']",2019-05-24
+XXXTENTACION,Jocelyn Flores,,True,119133,88,0.872,-9.144,134.021,0.469,0.391,0.437,0.297,0.242,"['emo rap', 'miami hip hop']",2017-08-25
+Dynoro,In My Mind,,False,184560,82,0.694,-5.335,125.905,0.176,0.77,0.163,0.118,0.149,"['edm', 'electro house', 'pop dance', 'tropical house']",2018-06-08
+Calvin Harris,Promises (with Sam Smith),,False,213309,81,0.781,-5.991,123.07,0.0119,0.768,0.486,0.325,0.0394,"['dance pop', 'edm', 'electro house', 'house', 'pop']",2018-08-17
+Calvin Harris,One Kiss (with Dua Lipa),,False,214846,83,0.791,-3.24,123.994,0.037,0.862,0.592,0.0814,0.11,"['dance pop', 'edm', 'electro house', 'house', 'pop']",2018-04-06
+Calvin Harris,This Is What You Came For (feat. Rihanna),,False,222160,79,0.63,-2.787,123.963,0.199,0.928,0.465,0.148,0.0331,"['dance pop', 'edm', 'electro house', 'house', 'pop']",2016-04-29
+Clean Bandit,Solo (feat. Demi Lovato),,False,222653,76,0.737,-4.546,105.005,0.0441,0.636,0.565,0.35,0.0437,"['dance pop', 'edm', 'pop', 'pop dance', 'post-teen pop']",2018-05-17
+Clean Bandit,Rockabye (feat. Sean Paul & Anne-Marie),,False,251088,77,0.72,-4.068,101.965,0.406,0.763,0.742,0.18,0.0523,"['dance pop', 'edm', 'pop', 'pop dance', 'post-teen pop']",2016-10-21
+Clean Bandit,Rather Be (feat. Jess Glynne),,False,227833,73,0.799,-6.735,120.97,0.162,0.586,0.549,0.193,0.0377,"['dance pop', 'edm', 'pop', 'pop dance', 'post-teen pop']",2014-01-17
+George Ezra,Shotgun,,False,201287,80,0.672,-4.733,115.741,0.286,0.735,0.754,0.242,0.0457,"['folk-pop', 'modern rock', 'neo-singer-songwriter', 'pop']",2018-03-23
+Rudimental,"These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",,False,210772,77,0.653,-4.057,92.213,0.194,0.809,0.55,0.165,0.0474,"['dance pop', 'edm', 'house', 'liquid funk', 'pop']",2018-01-19
+benny blanco,Eastside (with Halsey & Khalid),,False,173799,80,0.56,-7.648,89.391,0.555,0.68,0.319,0.116,0.321,"['electropop', 'pop', 'pop rap']",2018-07-12
+Cardi B,I Like It,,True,253390,82,0.816,-3.998,136.048,0.099,0.726,0.65,0.372,0.129,"['dance pop', 'pop', 'pop rap', 'rap']",2018-04-06
+Portugal. The Man,Feel It Still,,False,163253,79,0.801,-5.115,79.028,0.0417,0.795,0.754,0.0717,0.0504,"['indie rock', 'modern alternative rock', 'modern rock', 'rock']",2017-06-16
+Marshmello,FRIENDS,,True,202620,82,0.626,-2.384,95.079,0.205,0.88,0.534,0.128,0.0504,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']",2018-02-09
+Marshmello,Silence,,False,180822,83,0.52,-3.093,141.971,0.256,0.761,0.286,0.17,0.0853,"['brostep', 'edm', 'pop', 'pop dance', 'progressive electro house']",2017-08-11
+5 Seconds of Summer,Youngblood,,False,203417,82,0.596,-5.114,120.274,0.0169,0.854,0.152,0.124,0.463,"['boy band', 'dance pop', 'pop', 'post-teen pop']",2018-06-15
+Imagine Dragons,Thunder,,False,187146,85,0.605,-4.833,167.997,0.00671,0.822,0.288,0.147,0.0438,"['modern rock', 'rock']",2017-06-23
+Juice WRLD,Lucid Dreams,,True,239835,6,0.511,-7.23,83.903,0.349,0.566,0.218,0.34,0.2,"['chicago rap', 'melodic rap']",2018-05-23
+Bebe Rexha,Meant to Be (feat. Florida Georgia Line),,False,164205,72,0.642,-6.61,153.995,0.0476,0.772,0.589,0.0646,0.0848,"['dance pop', 'electropop', 'pop', 'pop dance', 'post-teen pop']",2018-06-22
+Camila Cabello,Havana (feat. Young Thug),,False,217306,82,0.765,-4.333,104.988,0.184,0.523,0.394,0.132,0.03,"['dance pop', 'electropop', 'pop', 'pop dance', 'post-teen pop']",2018-01-12
+Zedd,The Middle,,False,184732,83,0.753,-3.061,107.01,0.171,0.657,0.437,0.112,0.0449,"['complextro', 'dance pop', 'edm', 'electro house', 'electropop']",2018-01-23
+Drake,God's Plan,,True,198973,84,0.754,-9.211,77.169,0.0332,0.449,0.357,0.552,0.109,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",2018-06-29
+Drake,One Dance,,False,173986,81,0.792,-5.609,103.967,0.00776,0.625,0.37,0.329,0.0536,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",2016-05-06
+Rae Sremmurd,Black Beatles,,True,291893,76,0.794,-6.163,145.926,0.142,0.632,0.355,0.128,0.0649,"['hip hop', 'melodic rap', 'mississippi hip hop', 'pop rap', 'rap']",2016-08-12
+French Montana,Unforgettable,,True,233901,81,0.726,-5.043,97.985,0.0293,0.769,0.733,0.104,0.123,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",2017-07-14
+Luis Fonsi,Despacito - Remix,,False,230413,72,0.649,-4.346,177.899,0.226,0.798,0.857,0.0711,0.178,"['latin', 'latin pop', 'puerto rican pop', 'tropical']",2019-02-01
+Kygo,It Ain't Me (with Selena Gomez),,False,220780,77,0.64,-6.596,99.968,0.119,0.533,0.515,0.0864,0.0706,"['edm', 'pop', 'pop dance', 'tropical house']",2017-02-16
+Rita Ora,Your Song,,False,180757,68,0.855,-4.093,117.959,0.158,0.624,0.962,0.0513,0.0488,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance']",2017-05-25
+Khalid,Young Dumb & Broke,,False,202546,82,0.798,-6.351,136.949,0.199,0.539,0.394,0.165,0.0421,"['alternative r&b', 'pop']",2017-04-27
+Alessia Cara,Scars To Your Beautiful,,False,230226,81,0.319,-5.74,194.169,0.0285,0.739,0.449,0.111,0.272,"['canadian contemporary r&b', 'canadian pop', 'dance pop', 'electropop', 'pop']",2016-03-11
+21 Savage,Bank Account,,True,220306,80,0.884,-8.228,75.016,0.0151,0.346,0.376,0.0871,0.351,"['atl hip hop', 'rap', 'trap']",2017-09-23
+DJ Snake,Let Me Love You,,False,205946,82,0.649,-5.371,99.988,0.0863,0.716,0.163,0.135,0.0349,"['dance pop', 'edm', 'electro house', 'electronic trap', 'pop']",2016-08-05
+The Chainsmokers,Closer,,False,244960,85,0.748,-5.599,95.01,0.414,0.524,0.661,0.111,0.0338,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance']",2016-07-29
+Zara Larsson,Lush Life,,False,201122,77,0.694,-3.923,98.022,0.133,0.712,0.799,0.211,0.046,"['dance pop', 'edm', 'electropop', 'pop', 'pop dance']",2017-03-17
+Mike Posner,I Took A Pill In Ibiza - Seeb Remix,,True,197933,77,0.664,-6.645,101.969,0.0353,0.714,0.71,0.0843,0.111,"['dance pop', 'edm', 'pop', 'pop dance', 'pop rap']",2016-05-06
+Sia,Cheap Thrills,,False,211666,62,0.628,-5.608,89.976,0.0472,0.698,0.732,0.0907,0.105,"['australian dance', 'australian pop', 'dance pop', 'pop', 'pop dance']",2016-02-18
+Sia,The Greatest (feat. Kendrick Lamar),,False,210226,73,0.668,-6.127,191.944,0.0102,0.725,0.729,0.0561,0.266,"['australian dance', 'australian pop', 'dance pop', 'pop', 'pop dance']",2016-10-21
+Lukas Graham,7 Years,,False,237300,52,0.742,-5.83,119.951,0.29,0.479,0.346,0.391,0.0551,"['danish pop', 'pop', 'scandipop']",2015-06-16
+ZAYN,PILLOWTALK,,True,202746,79,0.584,-4.275,124.944,0.117,0.7,0.438,0.0939,0.0456,"['dance pop', 'electropop', 'pop', 'pop dance', 'post-teen pop']",2016-03-25
+Twenty One Pilots,Stressed Out,,False,202333,84,0.734,-5.677,169.977,0.0462,0.637,0.648,0.0602,0.141,"['modern rock', 'rock']",2015-05-15
+Little Mix,Shout Out to My Ex,,False,246240,37,0.773,-4.061,126.014,0.0239,0.747,0.8,0.11,0.0889,"['dance pop', 'girl group', 'pop', 'pop dance', 'post-teen pop']",2017-11-24
+DNCE,Cake By The Ocean,,True,219146,80,0.774,-5.446,119.002,0.152,0.753,0.896,0.0371,0.0517,"['dance pop', 'pop', 'pop dance', 'pop rock', 'post-teen pop']",2016-11-18
+Kiiara,Gold,,False,225882,62,0.6,-9.343,113.049,0.615,0.412,0.408,0.134,0.344,"['dance pop', 'electropop', 'indie poptimism', 'pop', 'pop dance']",2015-10-26
+Bryson Tiller,Exchange,,True,194613,79,0.525,-10.598,160.108,0.107,0.433,0.276,0.135,0.185,"['kentucky hip hop', 'pop', 'pop rap', 'rap', 'trap']",2015-10-02
+Pitbull,Timber (feat. Ke$ha),,False,204160,80,0.581,-4.087,129.992,0.0295,0.963,0.788,0.139,0.0981,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop dance']",2012
+Pitbull,Time of Our Lives,,True,229360,78,0.72,-5.797,124.043,0.0921,0.802,0.723,0.694,0.0582,"['dance pop', 'latin', 'miami hip hop', 'pop', 'pop dance']",2014-11-21
+Mr. Probz,Waves - Robin Schulz Radio Edit,,False,208133,48,0.829,-9.334,119.993,0.00821,0.51,0.45,0.0829,0.0369,"['dance pop', 'edm', 'pop dance', 'tropical house']",2014-02-07
+Martin Garrix,In the Name of Love,,False,195706,79,0.501,-5.88,133.99,0.109,0.519,0.168,0.454,0.0409,"['big room', 'dance pop', 'edm', 'electro house', 'pop']",2016-07-29
+Felix Jaehn,Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson),,False,186146,73,0.778,-6.959,117.971,0.672,0.566,0.479,0.0698,0.0311,"['dance pop', 'edm', 'electro house', 'german dance', 'pop']",2018-02-16
+Meghan Trainor,Lips Are Movin,,False,182666,70,0.775,-5.402,139.091,0.0506,0.825,0.95,0.111,0.0464,"['dance pop', 'hip pop', 'pop', 'pop dance', 'post-teen pop']",2015-01-09
+One Direction,Drag Me Down,,False,192120,81,0.73,-5.672,138.113,0.109,0.703,0.595,0.0657,0.0369,"['boy band', 'pop', 'post-teen pop', 'talent show']",2015-11-13
+The Weeknd,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",,False,252226,78,0.659,-5.922,119.844,0.385,0.381,0.426,0.0972,0.0304,"['canadian contemporary r&b', 'canadian pop', 'pop']",2014-12-23
+Jason Derulo,Want to Want Me,,False,207719,76,0.775,-5.508,114.025,0.00906,0.68,0.656,0.109,0.0629,"['dance pop', 'pop', 'pop dance', 'pop rap', 'post-teen pop']",2015-05-29
+Hozier,Take Me To Church,,False,241688,82,0.566,-5.303,128.945,0.634,0.664,0.437,0.116,0.0464,"['irish singer-songwriter', 'modern rock', 'pop']",2014-07-20
+OMI,Cheerleader - Felix Jaehn Remix Radio Edit,,False,180565,76,0.782,-6.237,118.016,0.166,0.685,0.603,0.16,0.0309,"['dance pop', 'pop dance']",2015-10-16
+Mark Ronson,Uptown Funk (feat. Bruno Mars),,False,269666,82,0.856,-7.223,114.988,0.00801,0.609,0.928,0.0344,0.0824,"['dance pop', 'pop', 'pop dance']",2015-01-12
+Wiz Khalifa,See You Again (feat. Charlie Puth),,False,229525,83,0.689,-7.503,80.025,0.369,0.481,0.283,0.0649,0.0815,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop']",2015
