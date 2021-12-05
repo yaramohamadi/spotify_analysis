@@ -22,6 +22,7 @@ In this project, I use Spotify's API to do some analysis. My work is listed belo
 ## Part 3: (Recommender Systems)
 
 #### What type of recommender model works best for me? 
+Accuracy is obtained by conducting a controlled experiment.
 
 <img src="Predictive/img/Recommender comparison.png" width="500"/>
 
